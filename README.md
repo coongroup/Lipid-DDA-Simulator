@@ -2,7 +2,7 @@
 
 The Lipid DDA Simulator is a proof-of-concept computational tool for in-silico simulation of lipidomics data-dependent acquisition on the Q-Exactive HF.  The simulation descriptively models ion flux, ion transmission, quadrupole isolation, fragmentation efficiency, and spectral noise under various method parameter combinations and predicts the likely number of lipid identifications for a given experiment.  The software couples the in-silico model to a modified genetic algorithm to efficiently explore the method parameter space for new sample types and return near-optimal method parameter sets.
 
-[Download Links](https://github.com/coongroup/Lipid-DDA-Simulator/releases/latest)
+[Download](https://github.com/coongroup/Lipid-DDA-Simulator/releases/latest)
 <br><br>
 
 ## Key Features
