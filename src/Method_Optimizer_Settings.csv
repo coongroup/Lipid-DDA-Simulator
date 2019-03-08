@@ -1,0 +1,34 @@
+Polarity Switching,true
+Positive Polarity,true
+Negative Polarity,false
+Gradient Length (min),30.0
+MS1 Max IT (ms),20
+MS1 Resolution,60000
+Exclude Isotopes,true
+Stepped CE,true
+Top N Min,2
+Top N Max,5
+Top N Step,1
+IW Min,0.7
+IW Max,4.2
+IW Step,0.7
+MS2 Res Min,15000
+MS2 Res Max,240000
+MS2 IT Min,10
+MS2 IT Max,50
+MS2 IT Step,5
+MS2 AGC Min,20000
+MS2 AGC Max,5000000
+Dynamic Exclusion Min,5.0
+Dynamic Exclusion Max,15.0
+Dynamic Exclusion Step,5.0
+Min AGC Min,0
+Min AGC Max,100000
+Max Duty Cycle (ms),1200.0
+Num Survivors,8
+Mutation Rate,0.2
+Initial Duplicates,4
+Min IDs,400
+Max Pop Diff,0.001
+Max Best Diff,0.001
+Min Generations,60

@@ -1,0 +1,1460 @@
+Retention Time (min),Quant Ion,Polarity,Identification,Lipid Class,Features Found,Filter Status
+11.868,632.6001,-,Cer[NS] d17:1_24:1,Cer[NS],54,Redundant Identification
+9.816,538.52112,-,Cer[NS] d18:0_16:0,Cer[NS],26,Redundant Identification
+12.824,622.61554,-,Cer[NS] d18:0_22:0,Cer[NS],26,Redundant Identification
+9.487,538.51947,+,Cer[NS] d18:1_16:0,Cer[NS],84,Redundant Identification
+9.487,536.50531,-,Cer[NS] d18:1_16:0,Cer[NS],56,Redundant Identification
+10.446,566.55078,+,Cer[NS] d18:1_18:0,Cer[NS],82,Redundant Identification
+10.446,564.53693,-,Cer[NS] d18:1_18:0,Cer[NS],55,Redundant Identification
+12.465,622.61383,+,Cer[NS] d18:1_22:0,Cer[NS],81,Redundant Identification
+12.465,620.59961,-,Cer[NS] d18:1_22:0,Cer[NS],54,Redundant Identification
+13.472,650.64496,+,Cer[NS] d18:1_24:0,Cer[NS],83,Redundant Identification
+13.472,648.6308,-,Cer[NS] d18:1_24:0,Cer[NS],55,Redundant Identification
+12.366,648.62933,+,Cer[NS] d18:1_24:1,Cer[NS],84,Redundant Identification
+12.366,646.61542,-,Cer[NS] d18:1_24:1,Cer[NS],56,Redundant Identification
+13.962,664.66144,+,Cer[NS] d18:1_25:0,Cer[NS],81,Redundant Identification
+13.962,662.64673,-,Cer[NS] d18:1_25:0,Cer[NS],54,Redundant Identification
+14.441,676.66187,-,Cer[NS] d18:1_26:0,Cer[NS],54,Redundant Identification
+13.352,676.66101,+,Cer[NS] d18:1_26:1,Cer[NS],81,Redundant Identification
+13.352,674.64642,-,Cer[NS] d18:1_26:1,Cer[NS],54,Redundant Identification
+8.696,534.48938,-,Cer[NS] d18:2_16:0,Cer[NS],31,Redundant Identification
+9.59,562.52032,-,Cer[NS] d18:2_18:0,Cer[NS],51,Redundant Identification
+10.542,590.55255,-,Cer[NS] d18:2_20:0,Cer[NS],52,Redundant Identification
+11.538,618.58411,-,Cer[NS] d18:2_22:0,Cer[NS],54,Redundant Identification
+11.459,644.59973,-,Cer[NS] d18:2_24:1,Cer[NS],54,Redundant Identification
+9.492,520.50861,+,Cer[NS] d34:1,Cer[NS],28,Redundant Identification
+8.698,518.49335,+,Cer[NS] d34:2,Cer[NS],4,Redundant Identification
+9.964,550.52087,-,Cer[NS] d35:1,Cer[NS],42,Redundant Identification
+9.964,534.52454,+,Cer[NS] d35:1,Cer[NS],15,Redundant Identification
+10.445,548.54047,+,Cer[NS] d36:1,Cer[NS],28,Redundant Identification
+9.588,546.52435,+,Cer[NS] d36:2,Cer[NS],24,Redundant Identification
+10.943,562.5564,+,Cer[NS] d37:1,Cer[NS],18,Redundant Identification
+11.449,592.5683,-,Cer[NS] d38:1,Cer[NS],54,Redundant Identification
+11.452,576.57202,+,Cer[NS] d38:1,Cer[NS],27,Redundant Identification
+10.546,574.55634,+,Cer[NS] d38:2,Cer[NS],25,Redundant Identification
+11.962,590.58783,+,Cer[NS] d39:1,Cer[NS],54,Redundant Identification
+11.962,606.58441,-,Cer[NS] d39:1,Cer[NS],27,Redundant Identification
+12.466,604.60297,+,Cer[NS] d40:1,Cer[NS],27,Redundant Identification
+11.54,602.58783,+,Cer[NS] d40:2,Cer[NS],27,Redundant Identification
+12.971,636.63031,+,Cer[NS] d41:1,Cer[NS],81,Redundant Identification
+12.971,634.6156,-,Cer[NS] d41:1,Cer[NS],54,Redundant Identification
+12.972,618.61963,+,Cer[NS] d41:1,Cer[NS],27,Redundant Identification
+11.87,616.60327,+,Cer[NS] d41:2,Cer[NS],27,Redundant Identification
+12.049,616.60345,+,Cer[NS] d41:2,Cer[NS],7,Redundant Identification
+13.472,632.63446,+,Cer[NS] d42:1,Cer[NS],28,Redundant Identification
+12.369,630.61884,+,Cer[NS] d42:2,Cer[NS],28,Redundant Identification
+12.556,648.62933,+,Cer[NS] d42:2,Cer[NS],67,Redundant Identification
+12.556,646.61523,-,Cer[NS] d42:2,Cer[NS],40,Redundant Identification
+12.557,630.61896,+,Cer[NS] d42:2,Cer[NS],25,Redundant Identification
+11.462,628.60358,+,Cer[NS] d42:3,Cer[NS],27,Redundant Identification
+13.962,646.65033,+,Cer[NS] d43:1,Cer[NS],27,Redundant Identification
+14.442,660.66602,+,Cer[NS] d44:1,Cer[NS],27,Redundant Identification
+13.353,658.65051,+,Cer[NS] d44:2,Cer[NS],27,Redundant Identification
+12.441,656.6347,+,Cer[NS] d44:3,Cer[NS],27,Redundant Identification
+12.965,1365.88574,-,CL 16:1_16:1_16:1_16:1,CL,27,Redundant Identification
+13.662,1393.91638,-,CL 16:1_18:1_16:1_16:1,CL,27,Redundant Identification
+13.039,1391.90149,-,CL 16:1_18:2_16:1_16:1,CL,27,Redundant Identification
+15.314,1463.99438,-,CL 18:1_18:1_17:1_18:1,CL,27,Redundant Identification
+15.629,1478.01184,-,CL 18:1_18:1_18:1_18:1,CL,27,Redundant Identification
+15.065,1475.99304,-,CL 18:1_18:1_18:2_18:1,CL,27,Redundant Identification
+15.187,1502.01025,-,CL 18:1_20:3_18:1_18:1,CL,27,Redundant Identification
+13.623,1367.90186,-,CL 64:3,CL,27,Redundant Identification
+14.317,1395.93091,-,CL 66:3,CL,27,Redundant Identification
+14.657,1409.94958,-,CL 67:3,CL,27,Redundant Identification
+14.007,1407.93311,-,CL 67:4,CL,27,Redundant Identification
+15.617,1425.9801,-,CL 68:2,CL,27,Redundant Identification
+14.33,1421.9469,-,CL 68:4,CL,27,Redundant Identification
+13.741,1419.93262,-,CL 68:5,CL,27,Redundant Identification
+13.161,1417.91663,-,CL 68:6,CL,10,Redundant Identification
+14.671,1435.96326,-,CL 69:4,CL,27,Redundant Identification
+14.09,1433.94861,-,CL 69:5,CL,27,Redundant Identification
+15.002,1449.97766,-,CL 70:4,CL,17,Redundant Identification
+14.406,1447.96204,-,CL 70:5,CL,26,Redundant Identification
+13.846,1445.94812,-,CL 70:6,CL,27,Redundant Identification
+14.741,1461.97876,-,CL 71:5,CL,27,Redundant Identification
+14.207,1459.96399,-,CL 71:6,CL,27,Redundant Identification
+14.5,1473.97827,-,CL 72:6,CL,27,Redundant Identification
+13.955,1471.96338,-,CL 72:7,CL,27,Redundant Identification
+13.648,1469.9519,-,CL 72:8,CL,27,Redundant Identification
+14.869,1487.99634,-,CL 73:6,CL,27,Redundant Identification
+14.629,1499.99475,-,CL 74:7,CL,27,Redundant Identification
+14.763,1526.01086,-,CL 76:8,CL,20,Redundant Identification
+12.506,870.70557,-,HexCer[NS] d18:0_24:1,HexCer[NS],27,Redundant Identification
+11.512,782.65363,-,HexCer[NS] d18:1_22:0,HexCer[NS],27,Redundant Identification
+12.009,796.66907,-,HexCer[NS] d18:1_23:0,HexCer[NS],27,Redundant Identification
+11.426,868.69,-,HexCer[NS] d18:1_24:1,HexCer[NS],27,Redundant Identification
+0.985,526.31482,-,LysoPC 14:0,LysoPC,26,Redundant Identification
+0.856,524.29883,-,LysoPC 14:1,LysoPC,5,Redundant Identification
+1.433,554.34668,-,LysoPC 16:0,LysoPC,28,Redundant Identification
+1.569,554.34662,-,LysoPC 16:0,LysoPC,3,Redundant Identification
+1.098,552.33124,-,LysoPC 16:1,LysoPC,28,Redundant Identification
+1.993,568.36279,-,LysoPC 17:0,LysoPC,27,Redundant Identification
+1.304,566.34662,-,LysoPC 17:1,LysoPC,27,Redundant Identification
+2.595,582.37866,-,LysoPC 18:0,LysoPC,34,Redundant Identification
+1.597,580.36249,-,LysoPC 18:1,LysoPC,28,Redundant Identification
+1.232,578.34607,-,LysoPC 18:2,LysoPC,27,Redundant Identification
+1.033,576.33057,-,LysoPC 18:3,LysoPC,27,Redundant Identification
+3.438,596.3941,-,LysoPC 19:0,LysoPC,26,Redundant Identification
+4.519,610.40985,-,LysoPC 20:0,LysoPC,24,Redundant Identification
+2.574,608.39404,-,LysoPC 20:1,LysoPC,19,Redundant Identification
+2.848,608.39459,-,LysoPC 20:1,LysoPC,8,Redundant Identification
+1.203,602.34668,-,LysoPC 20:4,LysoPC,27,Redundant Identification
+0.978,600.33124,-,LysoPC 20:5,LysoPC,27,Redundant Identification
+3.11,634.41046,-,LysoPC 22:2,LysoPC,27,Redundant Identification
+2.296,632.39447,-,LysoPC 22:3,LysoPC,27,Redundant Identification
+1.664,630.37805,-,LysoPC 22:4,LysoPC,32,Redundant Identification
+1.142,626.34668,-,LysoPC 22:6,LysoPC,28,Redundant Identification
+6.594,664.45721,-,LysoPC 24:1,LysoPC,14,Redundant Identification
+2.526,658.41083,-,LysoPC 24:4,LysoPC,22,Redundant Identification
+1.516,654.37872,-,LysoPC 24:6,LysoPC,25,Redundant Identification
+1.42,452.27841,-,LysoPE 16:0,LysoPE,28,Redundant Identification
+1.083,450.26273,-,LysoPE 16:1,LysoPE,28,Redundant Identification
+1.288,464.27823,-,LysoPE 17:1,LysoPE,25,Redundant Identification
+2.544,480.31003,-,LysoPE 18:0,LysoPE,27,Redundant Identification
+1.584,478.29404,-,LysoPE 18:1,LysoPE,26,Redundant Identification
+1.73,478.2941,-,LysoPE 18:1,LysoPE,5,Redundant Identification
+1.211,476.27835,-,LysoPE 18:2,LysoPE,4,Redundant Identification
+1.867,504.31067,-,LysoPE 20:2,LysoPE,13,Redundant Identification
+1.392,502.29431,-,LysoPE 20:3,LysoPE,27,Redundant Identification
+1.543,502.29437,-,LysoPE 20:3,LysoPE,26,Redundant Identification
+1.188,500.27856,-,LysoPE 20:4,LysoPE,28,Redundant Identification
+0.975,498.26266,-,LysoPE 20:5,LysoPE,28,Redundant Identification
+4.538,534.35706,-,LysoPE 22:1,LysoPE,26,Redundant Identification
+3.058,532.34204,-,LysoPE 22:2,LysoPE,27,Redundant Identification
+2.178,530.32623,-,LysoPE 22:3,LysoPE,14,Redundant Identification
+2.268,530.32605,-,LysoPE 22:3,LysoPE,28,Redundant Identification
+1.641,528.30988,-,LysoPE 22:4,LysoPE,34,Redundant Identification
+1.281,526.29437,-,LysoPE 22:5,LysoPE,28,Redundant Identification
+1.441,526.29419,-,LysoPE 22:5,LysoPE,28,Redundant Identification
+1.14,524.27826,-,LysoPE 22:6,LysoPE,28,Redundant Identification
+2.479,556.35217,-,LysoPE 24:4,LysoPE,25,Redundant Identification
+2.814,556.34161,-,LysoPE 24:4,LysoPE,27,Redundant Identification
+1.508,552.31006,-,LysoPE 24:6,LysoPE,23,Redundant Identification
+7.034,708.48346,-,PC 12:0_14:0,PC,23,Redundant Identification
+7.365,722.49866,-,PC 13:0_14:0,PC,19,Redundant Identification
+7.842,762.53021,-,PC 14:0_16:1,PC,5,Redundant Identification
+7.807,812.54565,-,PC 14:0_20:4,PC,22,Redundant Identification
+7.597,836.54486,-,PC 14:0_22:6,PC,27,Redundant Identification
+8.16,826.56104,-,PC 15:0_20:4,PC,20,Redundant Identification
+9.314,792.5766,-,PC 16:0_16:0,PC,21,Redundant Identification
+9.61,806.59369,-,PC 16:0_17:0,PC,21,Redundant Identification
+10.229,820.60944,-,PC 16:0_18:0,PC,22,Redundant Identification
+8.532,840.57672,-,PC 16:0_20:4,PC,28,Redundant Identification
+8.279,864.57703,-,PC 16:0_22:6,PC,28,Redundant Identification
+13.166,904.70367,-,PC 16:0_24:0,PC,27,Redundant Identification
+12.075,902.68719,-,PC 16:0_24:1,PC,25,Redundant Identification
+14.127,932.73444,-,PC 16:0_26:0,PC,13,Redundant Identification
+9.673,832.60895,-,PC 17:0_18:1,PC,4,Redundant Identification
+8.793,854.59229,-,PC 17:0_20:4,PC,13,Redundant Identification
+8.938,854.5918,-,PC 17:0_20:4,PC,27,Redundant Identification
+8.673,878.5921,-,PC 17:0_22:6,PC,25,Redundant Identification
+9.013,830.59302,-,PC 17:1_18:1,PC,28,Redundant Identification
+7.982,876.57849,-,PC 17:1_22:6,PC,26,Redundant Identification
+10.045,870.62494,-,PC 18:0_20:3,PC,27,Redundant Identification
+9.35,868.60815,-,PC 18:0_20:4,PC,28,Redundant Identification
+9.983,896.63977,-,PC 18:0_22:4,PC,28,Redundant Identification
+9.682,894.62415,-,PC 18:0_22:5,PC,27,Redundant Identification
+9.083,892.60852,-,PC 18:0_22:6,PC,28,Redundant Identification
+10.288,846.62482,-,PC 18:1_18:0,PC,28,Redundant Identification
+10.753,860.6405,-,PC 18:1_19:0,PC,27,Redundant Identification
+10.269,872.63867,-,PC 18:1_20:1,PC,25,Redundant Identification
+9.803,896.63977,-,PC 18:1_22:3,PC,3,Redundant Identification
+9.145,894.6239,-,PC 18:1_22:4,PC,26,Redundant Identification
+14.155,958.74976,-,PC 18:1_26:0,PC,27,Redundant Identification
+9.799,882.62329,-,PC 19:0_20:4,PC,27,Redundant Identification
+9.975,920.63983,-,PC 20:0_22:6,PC,27,Redundant Identification
+10.245,896.63989,-,PC 20:4_20:0,PC,23,Redundant Identification
+8.352,916.60779,-,PC 20:4_22:4,PC,27,Redundant Identification
+12.168,952.70306,-,PC 20:4_24:0,PC,27,Redundant Identification
+13.141,980.73413,-,PC 20:4_26:0,PC,27,Redundant Identification
+12.056,978.71881,-,PC 20:4_26:1,PC,27,Redundant Identification
+7.696,938.59216,-,PC 22:6_22:5,PC,27,Redundant Identification
+7.503,936.57672,-,PC 22:6_22:6,PC,27,Redundant Identification
+11.815,976.70087,-,PC 22:6_24:0,PC,27,Redundant Identification
+10.785,974.68726,-,PC 22:6_24:1,PC,27,Redundant Identification
+12.784,1004.73511,-,PC 22:6_26:0,PC,27,Redundant Identification
+11.712,1002.71722,-,PC 22:6_26:1,PC,27,Redundant Identification
+7.315,734.49902,-,PC 28:1,PC,26,Redundant Identification
+8.082,750.52966,-,PC 29:0,PC,17,Redundant Identification
+7.667,748.51465,-,PC 29:1,PC,14,Redundant Identification
+7.569,760.51465,-,PC 30:2,PC,27,Redundant Identification
+8.619,790.56152,-,PC 32:1,PC,42,Redundant Identification
+7.76,786.53015,-,PC 32:3,PC,27,Redundant Identification
+9.777,806.59351,-,PC 33:0,PC,19,Redundant Identification
+8.956,804.57745,-,PC 33:1,PC,28,Redundant Identification
+8.672,816.57721,-,PC 34:2,PC,28,Redundant Identification
+8.304,814.56189,-,PC 34:3,PC,19,Redundant Identification
+7.375,810.53076,-,PC 34:5,PC,27,Redundant Identification
+10.526,834.62518,-,PC 35:0,PC,3,Redundant Identification
+9.827,832.60901,-,PC 35:1,PC,28,Redundant Identification
+9.147,830.59271,-,PC 35:2,PC,12,Redundant Identification
+9.443,844.60803,-,PC 36:2,PC,28,Redundant Identification
+8.875,842.59253,-,PC 36:3,PC,26,Redundant Identification
+9.133,842.59259,-,PC 36:3,PC,20,Redundant Identification
+8.367,840.57678,-,PC 36:4,PC,16,Redundant Identification
+7.923,838.56134,-,PC 36:5,PC,26,Redundant Identification
+8.058,838.56146,-,PC 36:5,PC,5,Redundant Identification
+8.221,852.57666,-,PC 37:5,PC,27,Redundant Identification
+12.184,818.66455,+,PC 38:0,PC,13,Redundant Identification
+11.238,874.65576,-,PC 38:1,PC,27,Redundant Identification
+9.753,870.62457,-,PC 38:3,PC,27,Redundant Identification
+9.1,868.60797,-,PC 38:4,PC,25,Redundant Identification
+8.581,866.59253,-,PC 38:5,PC,28,Redundant Identification
+8.802,866.59241,-,PC 38:5,PC,3,Redundant Identification
+8.952,880.60822,-,PC 39:5,PC,27,Redundant Identification
+12.212,902.68701,-,PC 40:1,PC,24,Redundant Identification
+11.199,900.6709,-,PC 40:2,PC,27,Redundant Identification
+10.703,898.65594,-,PC 40:3,PC,27,Redundant Identification
+9.338,894.62366,-,PC 40:5,PC,27,Redundant Identification
+8.589,892.60785,-,PC 40:6,PC,23,Redundant Identification
+8.336,890.59198,-,PC 40:7,PC,28,Redundant Identification
+7.84,888.57684,-,PC 40:8,PC,6,Redundant Identification
+13.2,930.71936,-,PC 42:1,PC,27,Redundant Identification
+12.121,928.70294,-,PC 42:2,PC,27,Redundant Identification
+10.612,924.67145,-,PC 42:4,PC,11,Redundant Identification
+10.213,922.65552,-,PC 42:5,PC,27,Redundant Identification
+9.609,920.63959,-,PC 42:6,PC,27,Redundant Identification
+8.801,918.62463,-,PC 42:7,PC,27,Redundant Identification
+9.081,918.62427,-,PC 42:7,PC,27,Redundant Identification
+8.121,940.60834,-,PC 44:10,PC,27,Redundant Identification
+13.066,956.73438,-,PC 44:2,PC,7,Redundant Identification
+11.122,892.67914,+,PC 44:5,PC,27,Redundant Identification
+8.369,942.62323,-,PC 44:9,PC,25,Redundant Identification
+11.113,976.70154,-,PC 46:6,PC,27,Redundant Identification
+8.44,762.50952,-,PE 16:0_22:6,PE,7,Redundant Identification
+9.264,790.54138,-,PE 18:0_22:6,PE,15,Redundant Identification
+10.499,744.55695,-,PE 18:1_18:0,PE,28,Redundant Identification
+8.49,788.52496,-,PE 18:1_22:6,PE,4,Redundant Identification
+12.015,874.63464,-,PE 22:6_24:0,PE,23,Redundant Identification
+7.913,660.46204,-,PE 30:1,PE,25,Redundant Identification
+9.513,690.50885,-,PE 32:0,PE,27,Redundant Identification
+8.747,688.49335,-,PE 32:1,PE,28,Redundant Identification
+10.035,730.54077,-,PE 35:1,PE,28,Redundant Identification
+8.496,913.58142,-,PI 18:0_22:4,PI,28,Redundant Identification
+8.023,904.59045,+,PI 38:4,PI,28,Redundant Identification
+8.042,911.56598,-,PI 40:5,PI,28,Redundant Identification
+8.975,750.56769,-,Plasmanyl-PC O-16:0_14:0,Plasmanyl-PC,27,Redundant Identification
+9.894,778.59979,-,Plasmanyl-PC O-16:0_16:0,Plasmanyl-PC,27,Redundant Identification
+9.184,776.58307,-,Plasmanyl-PC O-16:0_16:1,Plasmanyl-PC,27,Redundant Identification
+9.019,826.59821,-,Plasmanyl-PC O-16:0_20:4,Plasmanyl-PC,28,Redundant Identification
+8.765,850.59705,-,Plasmanyl-PC O-16:0_22:6,Plasmanyl-PC,27,Redundant Identification
+10.862,806.63068,-,Plasmanyl-PC O-18:0_16:0,Plasmanyl-PC,25,Redundant Identification
+9.908,854.62921,-,Plasmanyl-PC O-18:0_20:4,Plasmanyl-PC,28,Redundant Identification
+10.571,882.66101,-,Plasmanyl-PC O-18:0_22:4,Plasmanyl-PC,27,Redundant Identification
+9.974,830.62946,-,Plasmanyl-PC O-18:1_18:1,Plasmanyl-PC,27,Redundant Identification
+9.73,852.61346,-,Plasmanyl-PC O-18:1_20:4,Plasmanyl-PC,27,Redundant Identification
+10.377,880.64447,-,Plasmanyl-PC O-18:1_22:4,Plasmanyl-PC,27,Redundant Identification
+8.776,876.61304,-,Plasmanyl-PC O-18:1_22:6,Plasmanyl-PC,27,Redundant Identification
+9.426,876.6145,-,Plasmanyl-PC O-18:1_22:6,Plasmanyl-PC,25,Redundant Identification
+11.86,834.6618,-,Plasmanyl-PC O-20:0_16:0,Plasmanyl-PC,27,Redundant Identification
+10.853,882.66125,-,Plasmanyl-PC O-20:0_20:4,Plasmanyl-PC,27,Redundant Identification
+11.525,910.69238,-,Plasmanyl-PC O-20:0_22:4,Plasmanyl-PC,27,Redundant Identification
+10.795,908.6767,-,Plasmanyl-PC O-20:0_22:5,Plasmanyl-PC,27,Redundant Identification
+10.511,906.66071,-,Plasmanyl-PC O-20:0_22:6,Plasmanyl-PC,27,Redundant Identification
+9.913,804.61359,-,Plasmanyl-PC O-34:1,Plasmanyl-PC,27,Redundant Identification
+9.205,802.59937,-,Plasmanyl-PC O-34:2,Plasmanyl-PC,27,Redundant Identification
+10.91,832.64569,-,Plasmanyl-PC O-36:1,Plasmanyl-PC,27,Redundant Identification
+10.731,830.62939,-,Plasmanyl-PC O-36:2,Plasmanyl-PC,27,Redundant Identification
+9.812,828.60999,-,Plasmanyl-PC O-36:3,Plasmanyl-PC,18,Redundant Identification
+11.894,860.67706,-,Plasmanyl-PC O-38:1,Plasmanyl-PC,27,Redundant Identification
+11.26,858.66913,-,Plasmanyl-PC O-38:2,Plasmanyl-PC,27,Redundant Identification
+9.658,854.62909,-,Plasmanyl-PC O-38:4,Plasmanyl-PC,17,Redundant Identification
+9.042,852.61353,-,Plasmanyl-PC O-38:5,Plasmanyl-PC,28,Redundant Identification
+8.894,850.59772,-,Plasmanyl-PC O-38:6,Plasmanyl-PC,27,Redundant Identification
+9.601,878.62866,-,Plasmanyl-PC O-40:6,Plasmanyl-PC,27,Redundant Identification
+8.243,694.48248,-,Plasmenyl-PE P-14:0_20:4,Plasmenyl-PE,27,Redundant Identification
+9.752,724.53033,-,Plasmenyl-PE P-16:0_20:3,Plasmenyl-PE,3,Redundant Identification
+9.067,722.51428,-,Plasmenyl-PE P-16:0_20:4,Plasmenyl-PE,28,Redundant Identification
+8.485,720.49866,-,Plasmenyl-PE P-16:0_20:5,Plasmenyl-PE,27,Redundant Identification
+9.698,750.54596,-,Plasmenyl-PE P-16:0_22:4,Plasmenyl-PE,28,Redundant Identification
+8.784,746.51489,-,Plasmenyl-PE P-16:0_22:6,Plasmenyl-PE,28,Redundant Identification
+9.647,774.54517,-,Plasmenyl-PE P-18:0_22:6,Plasmenyl-PE,21,Redundant Identification
+10.055,726.54608,-,Plasmenyl-PE P-18:1_18:1,Plasmenyl-PE,27,Redundant Identification
+8.823,772.53027,-,Plasmenyl-PE P-18:1_22:6,Plasmenyl-PE,28,Redundant Identification
+10.894,778.57745,-,Plasmenyl-PE P-20:0_20:4,Plasmenyl-PE,27,Redundant Identification
+11.571,806.60907,-,Plasmenyl-PE P-20:0_22:4,Plasmenyl-PE,20,Redundant Identification
+9.128,672.4986,-,Plasmenyl-PE P-32:1,Plasmenyl-PE,27,Redundant Identification
+10.023,700.53033,-,Plasmenyl-PE P-34:1,Plasmenyl-PE,28,Redundant Identification
+10.973,728.56201,-,Plasmenyl-PE P-36:1,Plasmenyl-PE,27,Redundant Identification
+9.473,724.52997,-,Plasmenyl-PE P-36:3,Plasmenyl-PE,2,Redundant Identification
+11.935,756.59326,-,Plasmenyl-PE P-38:1,Plasmenyl-PE,27,Redundant Identification
+7.911,747.56708,-,SM d33:1,SM,27,Redundant Identification
+8.347,761.58258,-,SM d34:1,SM,28,Redundant Identification
+7.619,759.56647,-,SM d34:2,SM,28,Redundant Identification
+10.251,817.64679,-,SM d38:1,SM,22,Redundant Identification
+11.256,845.67706,-,SM d40:1,SM,28,Redundant Identification
+10.196,843.66217,-,SM d40:2,SM,27,Redundant Identification
+10.36,843.66193,-,SM d40:2,SM,27,Redundant Identification
+10.675,857.67816,-,SM d41:2,SM,27,Redundant Identification
+12.27,873.7085,-,SM d42:1,SM,28,Redundant Identification
+11.163,871.69275,-,SM d42:2,SM,28,Redundant Identification
+10.277,869.67609,-,SM d42:3,SM,28,Redundant Identification
+11.657,885.71014,-,SM d43:2,SM,22,Redundant Identification
+12.147,899.72504,-,SM d44:2,SM,27,Redundant Identification
+17.531,829.7262,+,TG 16:0_16:0_16:0,TG,28,Redundant Identification
+18.241,857.75775,+,TG 16:0_16:0_18:0,TG,28,Redundant Identification
+17.503,855.74133,+,TG 16:0_16:0_18:1,TG,28,Redundant Identification
+17.85,869.75757,+,TG 16:0_17:0_18:1,TG,27,Redundant Identification
+18.902,885.78961,+,TG 16:0_18:0_18:0,TG,28,Redundant Identification
+18.209,883.77271,+,TG 16:0_18:1_18:0,TG,28,Redundant Identification
+16.77,853.72589,+,TG 16:1_16:0_18:1,TG,27,Redundant Identification
+16.047,851.71051,+,TG 16:1_16:1_18:1,TG,27,Redundant Identification
+17.109,893.75726,+,TG 17:1_18:1_18:1,TG,27,Redundant Identification
+19.529,913.82147,+,TG 18:0_18:0_18:0,TG,27,Redundant Identification
+20.596,995.90002,+,TG 18:1_18:0_24:0,TG,27,Redundant Identification
+17.2,983.80353,+,TG 18:1_18:0_24:6,TG,27,Redundant Identification
+17.45,907.77191,+,TG 18:1_18:1_18:1,TG,28,Redundant Identification
+18.129,935.80371,+,TG 18:1_18:1_20:1,TG,27,Redundant Identification
+17.043,957.78796,+,TG 18:1_18:1_22:4,TG,26,Redundant Identification
+19.374,991.86682,+,TG 18:1_18:1_24:1,TG,27,Redundant Identification
+20.545,1021.91559,+,TG 18:1_18:1_26:0,TG,27,Redundant Identification
+19.931,1019.89844,+,TG 18:1_18:1_26:1,TG,27,Redundant Identification
+19.376,1017.88324,+,TG 18:1_18:1_26:2,TG,27,Redundant Identification
+18.546,1013.85199,+,TG 18:1_20:4_24:1,TG,23,Redundant Identification
+15.927,799.67871,+,TG 46:1,TG,27,Redundant Identification
+16.738,827.71039,+,TG 48:1,TG,28,Redundant Identification
+16.008,825.69507,+,TG 48:2,TG,27,Redundant Identification
+17.107,867.74194,+,TG 51:2,TG,27,Redundant Identification
+17.467,881.75665,+,TG 52:2,TG,28,Redundant Identification
+16.793,879.74127,+,TG 52:3,TG,28,Redundant Identification
+16.326,877.72632,+,TG 52:4,TG,23,Redundant Identification
+15.73,875.71008,+,TG 52:5,TG,27,Redundant Identification
+18.533,897.78833,+,TG 53:1,TG,27,Redundant Identification
+17.826,895.77332,+,TG 53:2,TG,27,Redundant Identification
+18.866,911.80408,+,TG 54:1,TG,28,Redundant Identification
+18.174,909.78845,+,TG 54:2,TG,28,Redundant Identification
+16.91,905.7569,+,TG 54:4,TG,25,Redundant Identification
+17.148,905.75732,+,TG 54:4,TG,26,Redundant Identification
+16.52,903.74091,+,TG 54:5,TG,28,Redundant Identification
+19.487,939.8363,+,TG 56:1,TG,27,Redundant Identification
+18.817,937.8205,+,TG 56:2,TG,27,Redundant Identification
+17.659,933.78882,+,TG 56:4,TG,23,Redundant Identification
+17.073,931.77283,+,TG 56:5,TG,27,Redundant Identification
+16.485,929.75623,+,TG 56:6,TG,28,Redundant Identification
+20.066,967.86774,+,TG 58:1,TG,27,Redundant Identification
+19.413,965.85156,+,TG 58:2,TG,27,Redundant Identification
+18.78,963.83594,+,TG 58:3,TG,27,Redundant Identification
+18.302,961.82007,+,TG 58:4,TG,12,Redundant Identification
+17.783,959.80426,+,TG 58:5,TG,27,Redundant Identification
+17.219,957.78839,+,TG 58:6,TG,27,Redundant Identification
+16.639,955.77277,+,TG 58:7,TG,27,Redundant Identification
+16.129,953.75659,+,TG 58:8,TG,27,Redundant Identification
+19.989,993.88287,+,TG 60:2,TG,27,Redundant Identification
+17.907,985.82001,+,TG 60:6,TG,21,Redundant Identification
+16.625,981.7876,+,TG 60:8,TG,11,Redundant Identification
+16.073,979.77228,+,TG 60:9,TG,27,Redundant Identification
+1.103,372.31021,+,AC 14:0,AC,27,
+1.679,400.34195,+,AC 16:0,AC,27,
+1.243,398.32584,+,AC 16:1,AC,21,
+2.821,428.37408,+,AC 18:0,AC,27,
+1.871,426.35785,+,AC 18:1,AC,27,
+1.403,424.34167,+,AC 18:2,AC,23,
+1.352,448.34198,+,AC 20:4,AC,27,
+1.086,446.32593,+,AC 20:5,AC,19,
+1.472,474.35782,+,AC 22:5,AC,14,
+1.29,472.34177,+,AC 22:6,AC,25,
+11.139,577.51929,+,Alkanyl-DG O-18:2_16:1,Alkanyl-DG,17,
+8.866,605.5506,+,Alkanyl-DG O-18:2_18:1,Alkanyl-DG,28,
+10.499,605.5506,+,Alkanyl-DG O-18:2_18:1,Alkanyl-DG,28,
+8.192,603.53442,+,Alkanyl-DG O-18:2_18:2,Alkanyl-DG,20,
+8.378,603.53479,+,Alkanyl-DG O-18:2_18:2,Alkanyl-DG,8,
+9.632,603.53479,+,Alkanyl-DG O-18:2_18:2,Alkanyl-DG,28,
+14.569,627.53491,+,Alkanyl-DG O-18:2_20:4,Alkanyl-DG,27,
+15.194,627.53503,+,Alkanyl-DG O-18:2_20:4,Alkanyl-DG,22,
+7.554,549.48767,+,Alkanyl-DG O-32:3,Alkanyl-DG,27,
+14.336,549.48773,+,Alkanyl-DG O-32:3,Alkanyl-DG,27,
+8.163,577.5191,+,Alkanyl-DG O-34:3,Alkanyl-DG,28,
+9.594,577.51923,+,Alkanyl-DG O-34:3,Alkanyl-DG,28,
+13.299,577.51929,+,Alkanyl-DG O-34:3,Alkanyl-DG,27,
+15.614,577.51868,+,Alkanyl-DG O-34:3,Alkanyl-DG,27,
+10.035,591.53497,+,Alkanyl-DG O-35:3,Alkanyl-DG,27,
+14.684,589.51874,+,Alkanyl-DG O-35:4,Alkanyl-DG,27,
+15.316,589.51874,+,Alkanyl-DG O-35:4,Alkanyl-DG,24,
+8.706,605.5506,+,Alkanyl-DG O-36:3,Alkanyl-DG,13,
+9.034,605.5506,+,Alkanyl-DG O-36:3,Alkanyl-DG,26,
+9.188,605.55023,+,Alkanyl-DG O-36:3,Alkanyl-DG,13,
+14.094,605.5506,+,Alkanyl-DG O-36:3,Alkanyl-DG,27,
+8.068,603.53467,+,Alkanyl-DG O-36:4,Alkanyl-DG,27,
+11.163,603.53461,+,Alkanyl-DG O-36:4,Alkanyl-DG,5,
+15.026,603.53424,+,Alkanyl-DG O-36:4,Alkanyl-DG,27,
+15.627,603.53424,+,Alkanyl-DG O-36:4,Alkanyl-DG,27,
+7.56,601.51923,+,Alkanyl-DG O-36:5,Alkanyl-DG,10,
+7.688,601.5191,+,Alkanyl-DG O-36:5,Alkanyl-DG,25,
+14.422,601.51947,+,Alkanyl-DG O-36:5,Alkanyl-DG,19,
+11.445,633.58252,+,Alkanyl-DG O-38:3,Alkanyl-DG,27,
+10.48,631.56555,+,Alkanyl-DG O-38:4,Alkanyl-DG,26,
+12.422,661.61328,+,Alkanyl-DG O-40:3,Alkanyl-DG,26,
+10.902,657.58173,+,Alkanyl-DG O-40:5,Alkanyl-DG,27,
+13.396,689.64435,+,Alkanyl-DG O-42:3,Alkanyl-DG,24,
+19.212,838.8233,+,Alkanyl-TG O-50:0,Alkanyl-TG,27,
+19.833,866.85486,+,Alkanyl-TG O-52:0,Alkanyl-TG,26,
+6.882,571.47229,+,Alkenyl-DG P-14:0_20:5,Alkenyl-DG,27,
+7.42,599.5036,+,Alkenyl-DG P-16:0_20:5,Alkenyl-DG,28,
+8.695,599.50317,+,Alkenyl-DG P-16:0_20:5,Alkenyl-DG,27,
+8.986,631.56616,+,Alkenyl-DG P-18:0_20:3,Alkenyl-DG,10,
+10.229,629.5509,+,Alkenyl-DG P-18:0_20:4,Alkenyl-DG,18,
+9.553,627.53516,+,Alkenyl-DG P-18:0_20:5,Alkenyl-DG,28,
+11.052,627.53503,+,Alkenyl-DG P-18:0_20:5,Alkenyl-DG,27,
+7.478,625.5191,+,Alkenyl-DG P-18:1_20:5,Alkenyl-DG,28,
+8.748,625.51898,+,Alkenyl-DG P-18:1_20:5,Alkenyl-DG,27,
+8.771,655.56622,+,Alkenyl-DG P-20:0_20:5,Alkenyl-DG,15,
+7.86,601.5188,+,Alkenyl-DG P-36:4,Alkenyl-DG,25,
+17.022,780.74463,+,Alkenyl-TG P-14:0_16:0_16:0,Alkenyl-TG,27,
+18.781,914.85541,+,Alkenyl-TG P-18:0_16:0_22:3,Alkenyl-TG,26,
+18.48,888.83832,+,Alkenyl-TG P-18:0_18:1_18:1,Alkenyl-TG,27,
+18.5,836.80762,+,Alkenyl-TG P-50:0,Alkenyl-TG,27,
+17.826,834.79163,+,Alkenyl-TG P-50:1,Alkenyl-TG,29,
+19.169,864.83881,+,Alkenyl-TG P-52:0,Alkenyl-TG,27,
+18.454,862.82306,+,Alkenyl-TG P-52:1,Alkenyl-TG,27,
+17.815,860.80743,+,Alkenyl-TG P-52:2,Alkenyl-TG,27,
+19.111,890.85419,+,Alkenyl-TG P-54:1,Alkenyl-TG,27,
+17.536,884.80658,+,Alkenyl-TG P-54:4,Alkenyl-TG,27,
+19.708,918.88635,+,Alkenyl-TG P-56:1,Alkenyl-TG,26,
+19.137,916.86951,+,Alkenyl-TG P-56:2,Alkenyl-TG,27,
+18.055,912.83801,+,Alkenyl-TG P-56:4,Alkenyl-TG,27,
+20.789,974.94934,+,Alkenyl-TG P-60:1,Alkenyl-TG,27,
+17.677,668.6344,+,CE 18:1,CE,27,
+16.31,690.61896,+,CE 20:4,CE,27,
+17.762,720.66583,+,CE 22:3,CE,27,
+17.043,718.65015,+,CE 22:4,CE,27,
+16.312,716.63464,+,CE 22:5,CE,27,
+16.562,716.63495,+,CE 22:5,CE,26,
+15.806,714.61859,+,CE 22:6,CE,27,
+16.48,742.64984,+,CE 24:6,CE,27,
+11.098,634.57898,-,Cer[AS] d18:2_22:0,Cer[AS],27,
+11.591,648.59583,-,Cer[AS] d18:2_23:0,Cer[AS],27,
+12.097,662.61084,-,Cer[AS] d18:2_24:0,Cer[AS],27,
+11.017,660.59528,-,Cer[AS] d18:2_24:1,Cer[AS],27,
+11.013,608.5636,-,Cer[AS] d38:1,Cer[AS],27,
+12.005,636.59521,-,Cer[AS] d40:1,Cer[AS],27,
+12.509,650.61053,-,Cer[AS] d41:1,Cer[AS],27,
+10.667,708.61676,-,Cer[AS] d41:2,Cer[AS],27,
+13.007,664.62653,-,Cer[AS] d42:1,Cer[AS],27,
+11.868,692.62158,-,Cer[NS] d17:1_24:1,Cer[NS],81,
+9.815,598.54211,-,Cer[NS] d18:0_16:0,Cer[NS],52,
+10.794,566.55261,-,Cer[NS] d18:0_18:0,Cer[NS],25,
+13.828,650.63721,-,Cer[NS] d18:0_24:0,Cer[NS],21,
+11.383,678.60577,-,Cer[NS] d18:1_22:1,Cer[NS],23,
+13.962,722.66858,-,Cer[NS] d18:1_25:0,Cer[NS],108,
+13.347,734.66876,-,Cer[NS] d18:1_26:1,Cer[NS],108,
+7.901,506.45773,-,Cer[NS] d18:2_14:0,Cer[NS],26,
+12.05,692.6214,-,Cer[NS] d18:2_23:0,Cer[NS],34,
+12.811,646.61572,-,Cer[NS] d18:2_24:0,Cer[NS],7,
+7.806,480.44241,-,Cer[NS] d30:1,Cer[NS],3,
+8.603,508.47311,-,Cer[NS] d32:1,Cer[NS],27,
+15.302,492.47766,+,Cer[NS] d32:1,Cer[NS],16,
+9.034,522.48926,-,Cer[NS] d33:1,Cer[NS],27,
+7.144,520.50922,+,Cer[NS] d34:1,Cer[NS],27,
+8.135,520.50891,+,Cer[NS] d34:1,Cer[NS],27,
+9.487,596.52649,-,Cer[NS] d34:1,Cer[NS],112,
+10.433,538.51941,+,Cer[NS] d34:1,Cer[NS],27,
+16.139,520.50885,+,Cer[NS] d34:1,Cer[NS],27,
+16.942,520.50916,+,Cer[NS] d34:1,Cer[NS],27,
+17.62,520.50928,+,Cer[NS] d34:1,Cer[NS],27,
+18.357,520.50964,+,Cer[NS] d34:1,Cer[NS],27,
+8.696,594.5108,-,Cer[NS] d34:2,Cer[NS],58,
+9.964,610.54205,-,Cer[NS] d35:1,Cer[NS],69,
+10.446,624.55798,-,Cer[NS] d36:1,Cer[NS],110,
+16.927,548.54047,+,Cer[NS] d36:1,Cer[NS],26,
+9.59,622.54218,-,Cer[NS] d36:2,Cer[NS],78,
+10.94,578.55249,-,Cer[NS] d37:1,Cer[NS],45,
+10.053,576.53632,-,Cer[NS] d37:2,Cer[NS],14,
+11.448,652.58978,-,Cer[NS] d38:1,Cer[NS],81,
+10.542,650.5741,-,Cer[NS] d38:2,Cer[NS],79,
+11.963,666.60602,-,Cer[NS] d39:1,Cer[NS],108,
+12.824,682.63647,-,Cer[NS] d40:0,Cer[NS],53,
+10.864,604.60339,+,Cer[NS] d40:1,Cer[NS],27,
+12.465,680.62115,-,Cer[NS] d40:1,Cer[NS],109,
+18.356,604.60364,+,Cer[NS] d40:1,Cer[NS],27,
+19.011,604.60406,+,Cer[NS] d40:1,Cer[NS],25,
+19.67,604.60419,+,Cer[NS] d40:1,Cer[NS],26,
+11.538,678.60559,-,Cer[NS] d40:2,Cer[NS],108,
+12.003,620.59863,+,Cer[NS] d40:2,Cer[NS],27,
+17.653,602.58765,+,Cer[NS] d40:2,Cer[NS],25,
+11.09,618.58264,+,Cer[NS] d40:3,Cer[NS],27,
+12.971,694.63708,-,Cer[NS] d41:1,Cer[NS],108,
+11.825,632.63434,+,Cer[NS] d42:1,Cer[NS],27,
+12.086,632.63446,+,Cer[NS] d42:1,Cer[NS],19,
+13.471,708.6524,-,Cer[NS] d42:1,Cer[NS],111,
+14.481,650.64471,+,Cer[NS] d42:1,Cer[NS],27,
+18.993,632.63483,+,Cer[NS] d42:1,Cer[NS],27,
+20.243,632.63483,+,Cer[NS] d42:1,Cer[NS],27,
+20.788,632.63483,+,Cer[NS] d42:1,Cer[NS],27,
+10.783,630.61865,+,Cer[NS] d42:2,Cer[NS],27,
+11.024,630.6189,+,Cer[NS] d42:2,Cer[NS],15,
+12.366,706.63672,-,Cer[NS] d42:2,Cer[NS],112,
+12.555,706.63672,-,Cer[NS] d42:2,Cer[NS],94,
+13.008,648.62927,+,Cer[NS] d42:2,Cer[NS],27,
+14.511,630.61877,+,Cer[NS] d42:2,Cer[NS],7,
+18.255,630.6189,+,Cer[NS] d42:2,Cer[NS],27,
+18.912,630.6189,+,Cer[NS] d42:2,Cer[NS],5,
+11.459,704.62122,-,Cer[NS] d42:3,Cer[NS],109,
+12.095,646.61426,+,Cer[NS] d42:3,Cer[NS],27,
+17.573,628.60309,+,Cer[NS] d42:3,Cer[NS],27,
+12.86,644.63501,+,Cer[NS] d43:2,Cer[NS],27,
+14.441,736.68378,-,Cer[NS] d44:1,Cer[NS],81,
+12.439,672.63135,-,Cer[NS] d44:3,Cer[NS],52,
+13.332,1357.91943,-,CL 16:1_17:1_16:1_16:1,CL,27,
+16.263,1480.02637,-,CL 18:1_18:0_18:1_18:1,CL,5,
+15.646,1456.02808,-,CL 18:1_18:1_18:1_18:1,CL,29,
+16.23,1484.06006,-,CL 18:1_20:1_18:1_18:1,CL,11,
+14.311,1347.93286,-,CL 64:2,CL,26,
+13.625,1345.91919,-,CL 64:3,CL,54,
+12.962,1343.90308,-,CL 64:4,CL,54,
+13.976,1359.93372,-,CL 65:3,CL,27,
+14.99,1375.96545,-,CL 66:2,CL,20,
+14.322,1373.95032,-,CL 66:3,CL,54,
+13.663,1371.93384,-,CL 66:4,CL,54,
+13.039,1369.91882,-,CL 66:5,CL,54,
+15.307,1389.9823,-,CL 67:2,CL,3,
+14.656,1387.96558,-,CL 67:3,CL,54,
+14.009,1385.95081,-,CL 67:4,CL,54,
+13.419,1383.93469,-,CL 67:5,CL,27,
+15.614,1403.99646,-,CL 68:2,CL,43,
+14.987,1423.96558,-,CL 68:3,CL,27,
+13.553,1421.94714,-,CL 68:4,CL,8,
+14.335,1399.96484,-,CL 68:4,CL,55,
+13.74,1397.9491,-,CL 68:5,CL,54,
+13.164,1395.93506,-,CL 68:6,CL,22,
+15.302,1415.99768,-,CL 69:3,CL,17,
+14.67,1413.98169,-,CL 69:4,CL,54,
+14.09,1411.96594,-,CL 69:5,CL,54,
+13.515,1409.95068,-,CL 69:6,CL,27,
+16.263,1432.02832,-,CL 70:2,CL,26,
+15.634,1451.99683,-,CL 70:3,CL,2,
+15.003,1427.9967,-,CL 70:4,CL,45,
+14.405,1425.98132,-,CL 70:5,CL,54,
+13.846,1423.96558,-,CL 70:6,CL,54,
+13.545,1443.93274,-,CL 70:7,CL,27,
+15.93,1444.02893,-,CL 71:3,CL,26,
+15.314,1442.01294,-,CL 71:4,CL,54,
+14.742,1439.99719,-,CL 71:5,CL,54,
+14.202,1437.98303,-,CL 71:6,CL,54,
+13.635,1435.9707,-,CL 71:7,CL,25,
+13.91,1435.96814,-,CL 71:7,CL,20,
+16.856,1460.0592,-,CL 72:2,CL,2,
+15.064,1454.01099,-,CL 72:5,CL,54,
+15.627,1454.0116,-,CL 72:5,CL,23,
+14.497,1451.99646,-,CL 72:6,CL,54,
+13.964,1449.97766,-,CL 72:7,CL,54,
+14.254,1471.96362,-,CL 72:7,CL,26,
+13.654,1447.96167,-,CL 72:8,CL,54,
+14.858,1466.01367,-,CL 73:6,CL,54,
+14.294,1463.99939,-,CL 73:7,CL,24,
+13.995,1461.98596,-,CL 73:8,CL,20,
+13.368,1471.96399,-,CL 74:10,CL,26,
+15.183,1480.0282,-,CL 74:6,CL,54,
+14.627,1478.01245,-,CL 74:7,CL,54,
+14.333,1475.99329,-,CL 74:8,CL,11,
+14.046,1499.99597,-,CL 76:10,CL,18,
+13.468,1497.97913,-,CL 76:11,CL,19,
+15.273,1506.04358,-,CL 76:7,CL,15,
+14.172,1526.01331,-,CL 76:8,CL,19,
+14.741,1504.02869,-,CL 76:8,CL,43,
+11.738,690.60419,+,DG 18:0_22:4,DG,27,
+10.791,688.58789,+,DG 18:1_22:4,DG,27,
+11.512,784.66669,+,HexCer[NS] d18:1_22:0,HexCer[NS],54,
+12.009,798.6828,+,HexCer[NS] d18:1_23:0,HexCer[NS],54,
+12.507,812.69897,+,HexCer[NS] d18:1_24:0,HexCer[NS],81,
+11.429,810.68286,+,HexCer[NS] d18:1_24:1,HexCer[NS],81,
+11.263,782.65063,+,HexCer[NS] d40:2,HexCer[NS],27,
+12.251,810.68304,+,HexCer[NS] d42:2,HexCer[NS],24,
+13.002,824.69946,-,HexCer[NS] d43:1,HexCer[NS],26,
+0.986,468.30807,+,LysoPC 14:0,LysoPC,54,
+0.755,466.30246,+,LysoPC 14:1,LysoPC,4,
+0.86,466.29248,+,LysoPC 14:1,LysoPC,27,
+1.171,482.32361,+,LysoPC 15:0,LysoPC,27,
+0.99,480.30829,+,LysoPC 15:1,LysoPC,27,
+1.435,496.3396,+,LysoPC 16:0,LysoPC,56,
+1.573,496.33966,+,LysoPC 16:0,LysoPC,31,
+18.213,496.33942,+,LysoPC 16:0,LysoPC,14,
+1.108,494.32361,+,LysoPC 16:1,LysoPC,56,
+1.659,510.35596,+,LysoPC 17:0,LysoPC,26,
+1.992,510.3555,+,LysoPC 17:0,LysoPC,53,
+1.297,508.33969,+,LysoPC 17:1,LysoPC,54,
+1.077,506.32388,+,LysoPC 17:2,LysoPC,26,
+2.595,524.3717,+,LysoPC 18:0,LysoPC,67,
+1.6,522.35535,+,LysoPC 18:1,LysoPC,56,
+18.188,522.35522,+,LysoPC 18:1,LysoPC,13,
+18.859,522.35522,+,LysoPC 18:1,LysoPC,7,
+1.231,520.33954,+,LysoPC 18:2,LysoPC,55,
+1.037,518.3241,+,LysoPC 18:3,LysoPC,54,
+3.439,538.38702,+,LysoPC 19:0,LysoPC,43,
+4.058,552.40216,+,LysoPC 20:0,LysoPC,6,
+4.517,552.40265,+,LysoPC 20:0,LysoPC,48,
+2.573,550.38696,+,LysoPC 20:1,LysoPC,46,
+2.844,550.38696,+,LysoPC 20:1,LysoPC,17,
+1.873,548.37146,+,LysoPC 20:2,LysoPC,5,
+1.408,546.35559,+,LysoPC 20:3,LysoPC,25,
+1.562,546.35486,+,LysoPC 20:3,LysoPC,7,
+1.195,544.33954,+,LysoPC 20:4,LysoPC,55,
+8.816,544.33917,+,LysoPC 20:4,LysoPC,2,
+17.371,544.33978,+,LysoPC 20:4,LysoPC,27,
+18.106,544.33978,+,LysoPC 20:4,LysoPC,16,
+0.981,542.32379,+,LysoPC 20:5,LysoPC,55,
+6.516,580.43457,+,LysoPC 22:0,LysoPC,27,
+4.567,578.41852,+,LysoPC 22:1,LysoPC,4,
+3.114,576.40308,+,LysoPC 22:2,LysoPC,49,
+2.298,574.37646,+,LysoPC 22:3,LysoPC,51,
+1.658,572.37079,+,LysoPC 22:4,LysoPC,67,
+17.834,572.3714,+,LysoPC 22:4,LysoPC,13,
+1.289,570.35516,+,LysoPC 22:5,LysoPC,28,
+1.456,570.35498,+,LysoPC 22:5,LysoPC,16,
+17.272,570.35535,+,LysoPC 22:5,LysoPC,17,
+1.143,568.33948,+,LysoPC 22:6,LysoPC,56,
+17.039,568.33923,+,LysoPC 22:6,LysoPC,12,
+7.43,608.46466,+,LysoPC 24:0,LysoPC,27,
+6.597,606.45007,+,LysoPC 24:1,LysoPC,16,
+2.532,600.40283,+,LysoPC 24:4,LysoPC,49,
+2.023,656.39496,-,LysoPC 24:5,LysoPC,28,
+1.522,596.37115,+,LysoPC 24:6,LysoPC,53,
+7.042,622.4812,+,LysoPC 25:0,LysoPC,13,
+0.978,424.24683,-,LysoPE 14:0,LysoPE,17,
+1.42,454.2926,+,LysoPE 16:0,LysoPE,56,
+1.083,452.27704,+,LysoPE 16:1,LysoPE,56,
+1.965,466.29395,-,LysoPE 17:0,LysoPE,24,
+1.288,466.29248,+,LysoPE 17:1,LysoPE,52,
+2.544,482.32428,+,LysoPE 18:0,LysoPE,54,
+1.584,480.30847,+,LysoPE 18:1,LysoPE,54,
+1.73,480.3085,+,LysoPE 18:1,LysoPE,23,
+18.316,480.3085,+,LysoPE 18:1,LysoPE,19,
+1.211,478.29251,+,LysoPE 18:2,LysoPE,32,
+1.039,476.27728,+,LysoPE 18:3,LysoPE,27,
+2.53,508.34027,+,LysoPE 20:1,LysoPE,27,
+1.867,506.32443,+,LysoPE 20:2,LysoPE,40,
+1.392,504.30801,+,LysoPE 20:3,LysoPE,54,
+1.543,504.30795,+,LysoPE 20:3,LysoPE,53,
+1.188,502.29285,+,LysoPE 20:4,LysoPE,56,
+9.005,502.29263,+,LysoPE 20:4,LysoPE,27,
+9.876,502.29279,+,LysoPE 20:4,LysoPE,23,
+17.55,502.29272,+,LysoPE 20:4,LysoPE,27,
+18.25,502.29272,+,LysoPE 20:4,LysoPE,22,
+0.975,500.27701,+,LysoPE 20:5,LysoPE,56,
+4.98,536.37115,+,LysoPE 22:1,LysoPE,15,
+3.058,534.35638,+,LysoPE 22:2,LysoPE,54,
+2.178,532.34033,+,LysoPE 22:3,LysoPE,35,
+2.268,532.34027,+,LysoPE 22:3,LysoPE,56,
+18.53,532.34033,+,LysoPE 22:3,LysoPE,6,
+1.641,530.32385,+,LysoPE 22:4,LysoPE,68,
+10.523,530.32428,+,LysoPE 22:4,LysoPE,5,
+17.987,530.32434,+,LysoPE 22:4,LysoPE,27,
+18.647,530.32465,+,LysoPE 22:4,LysoPE,6,
+1.281,528.30835,+,LysoPE 22:5,LysoPE,56,
+1.441,528.30872,+,LysoPE 22:5,LysoPE,36,
+1.14,526.29254,+,LysoPE 22:6,LysoPE,56,
+8.736,526.29272,+,LysoPE 22:6,LysoPE,3,
+17.233,526.29297,+,LysoPE 22:6,LysoPE,23,
+17.955,526.29297,+,LysoPE 22:6,LysoPE,13,
+6.366,564.40369,+,LysoPE 24:1,LysoPE,27,
+2.479,558.35614,+,LysoPE 24:4,LysoPE,52,
+2.814,558.35626,+,LysoPE 24:4,LysoPE,54,
+1.913,554.32605,-,LysoPE 24:5,LysoPE,5,
+1.987,554.32635,-,LysoPE 24:5,LysoPE,40,
+1.508,554.32434,+,LysoPE 24:6,LysoPE,51,
+2.201,582.35651,+,LysoPE 26:6,LysoPE,27,
+1.76,511.30447,-,LysoPG 18:0,LysoPG,23,
+1.164,509.28824,-,LysoPG 18:1,LysoPG,3,
+0.555,555.2735,-,LysoPG 22:6,LysoPG,17,
+0.914,555.27271,-,LysoPG 22:6,LysoPG,22,
+0.998,571.28906,-,LysoPI 16:0,LysoPI,9,
+1.456,599.32062,-,LysoPI 18:0,LysoPI,27,
+1.007,597.30493,-,LysoPI 18:1,LysoPI,15,
+1.091,597.30518,-,LysoPI 18:1,LysoPI,27,
+0.995,621.30493,-,LysoPI 20:3,LysoPI,27,
+0.828,619.28882,-,LysoPI 20:4,LysoPI,27,
+1.044,647.32086,-,LysoPI 22:4,LysoPI,26,
+0.822,643.28925,-,LysoPI 22:6,LysoPI,2,
+9.675,1135.72083,-,MLCL 16:1_16:1_18:1,MLCL,26,
+10.405,1163.75134,-,MLCL 16:1_18:1_18:1,MLCL,15,
+9.792,1161.73657,-,MLCL 16:1_18:2_18:1,MLCL,27,
+10.37,1189.76758,-,MLCL 18:2_18:1_18:1,MLCL,4,
+10.49,1189.76807,-,MLCL 18:2_18:1_18:1,MLCL,13,
+7.034,650.4762,+,PC 12:0_14:0,PC,50,
+7.368,664.49182,+,PC 13:0_14:0,PC,46,
+7.847,704.5224,+,PC 14:0_16:1,PC,32,
+7.806,754.5379,+,PC 14:0_20:4,PC,50,
+7.601,778.53833,+,PC 14:0_22:6,PC,55,
+8.162,768.55402,+,PC 15:0_20:4,PC,45,
+9.309,734.57013,+,PC 16:0_16:0,PC,49,
+11.869,792.58386,-,PC 16:0_16:0,PC,21,
+12.05,792.58386,-,PC 16:0_16:0,PC,10,
+9.603,748.58563,+,PC 16:0_17:0,PC,48,
+10.232,762.60168,+,PC 16:0_18:0,PC,25,
+9.379,818.59375,-,PC 16:0_18:1,PC,28,
+8.53,782.56958,+,PC 16:0_20:4,PC,56,
+8.275,806.56958,+,PC 16:0_22:6,PC,57,
+13.162,846.69629,+,PC 16:0_24:0,PC,54,
+12.075,844.67926,+,PC 16:0_24:1,PC,50,
+14.122,874.72693,+,PC 16:0_26:0,PC,40,
+9.675,774.6015,+,PC 17:0_18:1,PC,26,
+8.792,796.58478,+,PC 17:0_20:4,PC,28,
+8.938,796.58557,+,PC 17:0_20:4,PC,55,
+8.67,820.58423,+,PC 17:0_22:6,PC,50,
+9.014,772.58527,+,PC 17:1_18:1,PC,56,
+8.008,818.56927,+,PC 17:1_22:6,PC,53,
+10.043,812.6167,+,PC 18:0_20:3,PC,53,
+9.347,810.59998,+,PC 18:0_20:4,PC,56,
+9.984,838.63232,+,PC 18:0_22:4,PC,56,
+9.678,836.61597,+,PC 18:0_22:5,PC,54,
+9.083,834.60046,+,PC 18:0_22:6,PC,56,
+10.291,788.61688,+,PC 18:1_18:0,PC,48,
+10.749,802.63336,+,PC 18:1_19:0,PC,55,
+10.273,814.63135,+,PC 18:1_20:1,PC,53,
+9.808,838.63239,+,PC 18:1_22:3,PC,24,
+9.141,836.61615,+,PC 18:1_22:4,PC,52,
+14.155,900.74243,+,PC 18:1_26:0,PC,54,
+8.755,842.59247,-,PC 18:2_18:1,PC,13,
+9.799,824.61597,+,PC 19:0_20:4,PC,52,
+9.775,908.64001,-,PC 19:0_22:5,PC,27,
+9.98,862.63171,+,PC 20:0_22:6,PC,34,
+10.244,838.63226,+,PC 20:4_20:0,PC,34,
+11.227,924.67096,-,PC 20:4_22:0,PC,27,
+8.357,858.60046,+,PC 20:4_22:4,PC,55,
+12.165,894.69434,+,PC 20:4_24:0,PC,37,
+11.153,950.68665,-,PC 20:4_24:1,PC,54,
+13.138,922.72711,+,PC 20:4_26:0,PC,45,
+12.058,920.71149,+,PC 20:4_26:1,PC,54,
+11.486,1054.74854,-,PC 20:4_32:5,PC,27,
+11.675,1080.76538,-,PC 20:4_34:6,PC,27,
+7.696,880.58441,+,PC 22:6_22:5,PC,54,
+7.497,878.56921,+,PC 22:6_22:6,PC,54,
+11.83,918.69537,+,PC 22:6_24:0,PC,54,
+10.786,916.67963,+,PC 22:6_24:1,PC,54,
+12.829,946.72711,+,PC 22:6_26:0,PC,53,
+11.713,944.71112,+,PC 22:6_26:1,PC,54,
+7.711,678.50702,+,PC 28:0,PC,28,
+7.314,676.492,+,PC 28:1,PC,53,
+6.925,674.47693,+,PC 28:2,PC,27,
+8.078,692.52277,+,PC 29:0,PC,45,
+7.509,690.50629,+,PC 29:1,PC,16,
+7.67,690.50641,+,PC 29:1,PC,41,
+8.834,690.5069,+,PC 29:1,PC,4,
+7.255,688.49213,+,PC 29:2,PC,27,
+8.467,706.53864,+,PC 30:0,PC,28,
+8.054,704.5224,+,PC 30:1,PC,16,
+9.142,704.52386,+,PC 30:1,PC,27,
+7.446,702.50775,+,PC 30:2,PC,27,
+7.571,702.50757,+,PC 30:2,PC,55,
+7.136,700.48889,+,PC 30:3,PC,27,
+7.71,700.48859,+,PC 30:3,PC,13,
+8.748,778.56134,-,PC 31:0,PC,2,
+8.887,720.55444,+,PC 31:0,PC,28,
+8.184,718.53864,+,PC 31:1,PC,29,
+9.594,718.53857,+,PC 31:1,PC,28,
+7.749,716.52307,+,PC 31:2,PC,10,
+7.929,716.52246,+,PC 31:2,PC,27,
+8.81,716.52295,+,PC 31:2,PC,29,
+7.448,714.50507,+,PC 31:3,PC,9,
+8.111,714.50531,+,PC 31:3,PC,21,
+8.513,714.50647,+,PC 31:3,PC,5,
+8.528,732.55426,+,PC 32:1,PC,19,
+8.624,732.55432,+,PC 32:1,PC,79,
+8.844,732.55426,+,PC 32:1,PC,20,
+8.003,730.53809,+,PC 32:2,PC,27,
+8.294,730.53809,+,PC 32:2,PC,28,
+9.192,730.53833,+,PC 32:2,PC,28,
+7.633,728.52228,+,PC 32:3,PC,6,
+7.758,728.52191,+,PC 32:3,PC,55,
+8.458,728.51978,+,PC 32:3,PC,4,
+7.421,726.50421,+,PC 32:4,PC,26,
+7.014,724.48877,+,PC 32:5,PC,14,
+9.778,748.58545,+,PC 33:0,PC,21,
+11.402,748.58551,+,PC 33:0,PC,27,
+8.955,746.56982,+,PC 33:1,PC,56,
+8.322,744.55389,+,PC 33:2,PC,28,
+9.632,744.55463,+,PC 33:2,PC,28,
+7.99,742.53772,+,PC 33:3,PC,25,
+8.927,742.53839,+,PC 33:3,PC,28,
+8.676,740.52246,+,PC 33:4,PC,28,
+7.996,738.50726,+,PC 33:5,PC,8,
+8.161,738.50726,+,PC 33:5,PC,27,
+7.72,736.4931,+,PC 33:6,PC,19,
+8.798,762.6051,+,PC 34:0,PC,25,
+8.656,758.56897,+,PC 34:2,PC,57,
+8.89,816.57715,-,PC 34:2,PC,3,
+10.034,758.57025,+,PC 34:2,PC,22,
+8.064,756.55396,+,PC 34:3,PC,23,
+8.301,756.55365,+,PC 34:3,PC,47,
+9.294,756.55371,+,PC 34:3,PC,28,
+7.401,752.51996,+,PC 34:5,PC,54,
+8.32,752.5199,+,PC 34:5,PC,4,
+7.005,750.50452,+,PC 34:6,PC,24,
+7.64,750.50452,+,PC 34:6,PC,7,
+7.766,750.50458,+,PC 34:6,PC,27,
+10.516,776.61664,+,PC 35:0,PC,29,
+9.826,774.60132,+,PC 35:1,PC,56,
+11.444,774.60193,+,PC 35:1,PC,27,
+9.147,772.58514,+,PC 35:2,PC,20,
+10.477,772.58569,+,PC 35:2,PC,28,
+10.648,772.58582,+,PC 35:2,PC,7,
+8.414,770.56885,+,PC 35:3,PC,3,
+9.944,770.56885,+,PC 35:3,PC,3,
+10.238,770.56903,+,PC 35:3,PC,3,
+9.553,768.55396,+,PC 35:4,PC,28,
+7.689,766.53815,+,PC 35:5,PC,25,
+8.744,766.53802,+,PC 35:5,PC,28,
+8.958,766.53784,+,PC 35:5,PC,18,
+8.225,764.52332,+,PC 35:6,PC,5,
+9.447,786.60101,+,PC 36:2,PC,56,
+9.578,786.60083,+,PC 36:2,PC,15,
+8.841,784.58527,+,PC 36:3,PC,76,
+9.133,784.58533,+,PC 36:3,PC,44,
+10.209,784.58392,+,PC 36:3,PC,28,
+10.44,784.5838,+,PC 36:3,PC,25,
+8.376,782.5697,+,PC 36:4,PC,30,
+10.971,782.56757,+,PC 36:4,PC,7,
+7.894,780.55371,+,PC 36:5,PC,54,
+8.019,780.55365,+,PC 36:5,PC,33,
+9.133,780.55133,+,PC 36:5,PC,27,
+7.468,778.53784,+,PC 36:6,PC,24,
+8.836,778.53668,+,PC 36:6,PC,26,
+7.244,776.52002,+,PC 36:7,PC,27,
+7.803,776.51996,+,PC 36:7,PC,27,
+8.14,776.52008,+,PC 36:7,PC,25,
+11.511,804.64819,+,PC 37:0,PC,23,
+11.676,804.64886,+,PC 37:0,PC,12,
+12.427,802.63281,+,PC 37:1,PC,27,
+9.831,800.61633,+,PC 37:2,PC,28,
+11.403,800.61755,+,PC 37:2,PC,27,
+9.18,798.60077,+,PC 37:3,PC,27,
+9.31,798.60071,+,PC 37:3,PC,22,
+9.597,798.60089,+,PC 37:3,PC,2,
+10.901,798.60077,+,PC 37:3,PC,27,
+10.171,796.58527,+,PC 37:4,PC,28,
+10.446,796.58508,+,PC 37:4,PC,27,
+11.447,796.58405,+,PC 37:4,PC,27,
+8.218,794.56946,+,PC 37:5,PC,55,
+9.541,794.56982,+,PC 37:5,PC,27,
+9.864,794.56946,+,PC 37:5,PC,27,
+10.633,794.56805,+,PC 37:5,PC,10,
+7.94,792.55487,+,PC 37:6,PC,24,
+8.758,792.55463,+,PC 37:6,PC,25,
+8.165,790.53809,+,PC 37:7,PC,14,
+9.551,790.53534,+,PC 37:7,PC,26,
+12.185,876.67249,-,PC 38:0,PC,38,
+11.233,816.64819,+,PC 38:1,PC,57,
+12.92,816.64893,+,PC 38:1,PC,27,
+9.584,812.61609,+,PC 38:3,PC,26,
+9.751,812.61627,+,PC 38:3,PC,54,
+8.931,810.60034,+,PC 38:4,PC,20,
+9.1,810.60065,+,PC 38:4,PC,53,
+10.316,810.60065,+,PC 38:4,PC,21,
+8.587,808.58496,+,PC 38:5,PC,57,
+8.796,808.58478,+,PC 38:5,PC,25,
+8.052,806.56976,+,PC 38:6,PC,14,
+9.148,806.56854,+,PC 38:6,PC,27,
+7.68,804.55408,+,PC 38:7,PC,28,
+8.873,804.55383,+,PC 38:7,PC,17,
+7.461,802.53796,+,PC 38:8,PC,27,
+7.079,800.52026,+,PC 38:9,PC,27,
+11.709,830.6629,+,PC 39:1,PC,12,
+13.398,830.6637,+,PC 39:1,PC,27,
+10.725,828.64819,+,PC 39:2,PC,27,
+12.338,828.64734,+,PC 39:2,PC,27,
+9.667,826.63232,+,PC 39:3,PC,25,
+9.995,826.63245,+,PC 39:3,PC,10,
+10.235,826.64288,+,PC 39:3,PC,14,
+11.453,826.63208,+,PC 39:3,PC,3,
+12.427,824.61456,+,PC 39:4,PC,27,
+8.948,822.60046,+,PC 39:5,PC,55,
+10.413,822.60065,+,PC 39:5,PC,27,
+9.782,820.58484,+,PC 39:6,PC,27,
+10.133,820.58472,+,PC 39:6,PC,27,
+8.96,818.57056,+,PC 39:7,PC,27,
+9.255,818.57056,+,PC 39:7,PC,27,
+8.223,816.55042,+,PC 39:8,PC,24,
+12.21,844.67926,+,PC 40:1,PC,51,
+7.678,826.53503,+,PC 40:10,PC,27,
+11.192,842.66284,+,PC 40:2,PC,55,
+10.464,840.64832,+,PC 40:3,PC,21,
+10.704,840.64789,+,PC 40:3,PC,48,
+12.187,840.64832,+,PC 40:3,PC,21,
+11.226,838.63019,+,PC 40:4,PC,28,
+9.334,836.61621,+,PC 40:5,PC,55,
+10.392,836.61554,+,PC 40:5,PC,8,
+8.593,834.60046,+,PC 40:6,PC,50,
+9.753,834.59839,+,PC 40:6,PC,26,
+10.053,834.59857,+,PC 40:6,PC,27,
+8.164,832.58539,+,PC 40:7,PC,2,
+8.339,832.58502,+,PC 40:7,PC,56,
+7.837,830.56927,+,PC 40:8,PC,34,
+7.444,828.55072,+,PC 40:9,PC,13,
+8.26,828.55115,+,PC 40:9,PC,23,
+13.645,860.70679,+,PC 41:0,PC,24,
+14.334,858.69482,+,PC 41:1,PC,27,
+11.665,856.68042,+,PC 41:2,PC,27,
+13.272,856.67999,+,PC 41:2,PC,27,
+10.806,854.66339,+,PC 41:3,PC,18,
+8.885,850.64362,+,PC 41:5,PC,20,
+11.312,850.63202,+,PC 41:5,PC,3,
+9.505,848.61542,+,PC 41:6,PC,26,
+8.689,846.60162,+,PC 41:7,PC,19,
+9.799,846.59711,+,PC 41:7,PC,25,
+13.2,872.71198,+,PC 42:1,PC,54,
+7.419,854.5661,+,PC 42:10,PC,5,
+7.662,854.56921,+,PC 42:10,PC,28,
+8.346,854.56714,+,PC 42:10,PC,28,
+7.288,852.5506,+,PC 42:11,PC,26,
+7.83,852.55426,+,PC 42:11,PC,27,
+12.124,870.69543,+,PC 42:2,PC,54,
+11.254,868.67914,+,PC 42:3,PC,24,
+13.16,868.67926,+,PC 42:3,PC,27,
+10.567,866.66327,+,PC 42:4,PC,34,
+10.706,866.66364,+,PC 42:4,PC,3,
+12.236,866.66364,+,PC 42:4,PC,27,
+9.983,864.64764,+,PC 42:5,PC,20,
+10.21,864.64709,+,PC 42:5,PC,54,
+10.564,864.64728,+,PC 42:5,PC,6,
+11.187,864.64502,+,PC 42:5,PC,15,
+8.346,862.62585,+,PC 42:6,PC,23,
+9.605,862.63214,+,PC 42:6,PC,54,
+10.425,862.63086,+,PC 42:6,PC,27,
+8.8,860.61609,+,PC 42:7,PC,55,
+9.081,860.61621,+,PC 42:7,PC,54,
+8.642,858.60553,+,PC 42:8,PC,3,
+7.88,856.58447,+,PC 42:9,PC,28,
+8.12,856.58459,+,PC 42:9,PC,24,
+13.677,886.72473,+,PC 43:1,PC,27,
+12.597,884.71136,+,PC 43:2,PC,27,
+13.013,880.67938,+,PC 43:4,PC,27,
+12.291,878.65674,+,PC 43:5,PC,26,
+8.116,882.60071,+,PC 44:10,PC,54,
+13.079,898.72736,+,PC 44:2,PC,34,
+12.144,896.70929,+,PC 44:3,PC,17,
+11.848,894.69501,+,PC 44:4,PC,27,
+13.2,894.69379,+,PC 44:4,PC,26,
+10.771,892.67889,+,PC 44:5,PC,2,
+12.166,892.67749,+,PC 44:5,PC,18,
+10.028,890.66382,+,PC 44:6,PC,27,
+10.852,890.6637,+,PC 44:6,PC,24,
+9.91,888.64789,+,PC 44:7,PC,27,
+8.907,886.63275,+,PC 44:8,PC,27,
+9.217,886.6311,+,PC 44:8,PC,25,
+8.376,884.61627,+,PC 44:9,PC,52,
+8.108,908.61292,+,PC 46:11,PC,27,
+7.592,906.59692,+,PC 46:12,PC,25,
+14.019,926.75763,+,PC 46:2,PC,27,
+13.573,924.74176,+,PC 46:3,PC,17,
+12.818,922.72656,+,PC 46:4,PC,27,
+11.512,920.71051,+,PC 46:5,PC,26,
+11.122,918.69403,+,PC 46:6,PC,53,
+13.037,948.74213,+,PC 48:5,PC,18,
+10.919,944.71002,+,PC 48:7,PC,27,
+12.478,974.75739,+,PC 50:6,PC,17,
+11.762,972.74243,+,PC 50:7,PC,4,
+13.374,1002.78949,+,PC 52:6,PC,27,
+12.659,1000.77466,+,PC 52:7,PC,27,
+11.88,998.7583,+,PC 52:8,PC,26,
+6.334,606.44995,+,PC O-24:0,Plasmenyl-PC,21,
+7.491,712.52734,+,PC O-32:3,Plasmenyl-PC,27,
+7.069,710.51257,+,PC O-32:4,Plasmenyl-PC,27,
+11.918,732.5907,+,PC O-33:0,Plasmenyl-PC,24,
+8.793,742.57458,+,PC O-34:2,Plasmenyl-PC,27,
+7.516,738.54291,+,PC O-34:4,Plasmenyl-PC,24,
+8.076,738.54321,+,PC O-34:4,Plasmenyl-PC,17,
+9.501,738.54449,+,PC O-34:4,Plasmenyl-PC,27,
+7.315,736.52832,+,PC O-34:5,Plasmenyl-PC,26,
+10.729,794.60443,+,PC O-38:4,Plasmenyl-PC,27,
+9.727,816.58722,+,PC O-40:7,Plasmenyl-PC,25,
+11.73,878.70062,+,PC O-44:4,Plasmenyl-PC,27,
+12.185,878.70081,+,PC O-44:4,Plasmenyl-PC,27,
+11.373,902.70062,+,PC O-46:6,Plasmenyl-PC,27,
+7.928,710.47754,-,PE 14:0_20:4,PE,27,
+8.296,724.49353,-,PE 15:0_20:4,PE,19,
+8.44,764.52301,+,PE 16:0_22:6,PE,32,
+9.786,754.54028,-,PE 17:0_20:3,PE,27,
+9.117,752.52441,-,PE 17:0_20:4,PE,28,
+9.944,768.55652,-,PE 18:0_20:3,PE,8,
+10.238,768.55646,-,PE 18:0_20:3,PE,8,
+9.553,766.54065,-,PE 18:0_20:4,PE,28,
+10.171,794.57251,-,PE 18:0_22:4,PE,28,
+9.864,792.55658,-,PE 18:0_22:5,PE,23,
+9.264,792.55408,+,PE 18:0_22:6,PE,43,
+10.499,746.57007,+,PE 18:1_18:0,PE,56,
+9.632,742.54114,-,PE 18:1_18:1,PE,28,
+8.49,790.53802,+,PE 18:1_22:6,PE,32,
+9.989,780.55615,-,PE 19:0_20:4,PE,27,
+10.633,808.5874,-,PE 19:0_22:4,PE,25,
+12.797,852.65125,-,PE 20:3_24:0,PE,3,
+10.446,794.57239,-,PE 20:4_20:0,PE,27,
+11.399,822.60358,-,PE 20:4_22:0,PE,27,
+12.369,850.63336,-,PE 20:4_24:0,PE,27,
+11.312,848.6156,-,PE 20:4_24:1,PE,21,
+13.325,878.67621,-,PE 20:4_26:0,PE,24,
+13.013,878.67566,-,PE 22:4_24:0,PE,25,
+12.015,876.64709,+,PE 22:6_24:0,PE,50,
+8.626,662.47711,-,PE 30:0,PE,27,
+7.913,662.47571,+,PE 30:1,PE,34,
+9.513,692.52271,+,PE 32:0,PE,54,
+8.747,690.50726,+,PE 32:1,PE,72,
+8.454,688.49146,+,PE 32:2,PE,16,
+8.62,700.49335,-,PE 33:2,PE,3,
+10.435,720.55493,+,PE 34:0,PE,27,
+7.516,716.52502,-,PE 34:1,PE,2,
+9.594,716.52484,-,PE 34:1,PE,28,
+8.81,714.5094,-,PE 34:2,PE,33,
+10.035,732.55438,+,PE 35:1,PE,56,
+9.192,728.52509,-,PE 35:2,PE,27,
+8.613,726.50873,-,PE 35:3,PE,27,
+8.927,740.52515,-,PE 36:3,PE,27,
+8.676,738.5094,-,PE 36:4,PE,28,
+8.161,736.49353,-,PE 36:5,PE,27,
+10.957,758.57233,-,PE 37:1,PE,27,
+11.444,772.5874,-,PE 38:1,PE,27,
+9.115,766.54077,-,PE 38:4,PE,3,
+8.744,764.52466,-,PE 38:5,PE,28,
+8.958,764.52496,-,PE 38:5,PE,4,
+8.225,762.5094,-,PE 38:6,PE,4,
+7.791,762.50787,+,PE 38:7,PE,23,
+9.423,778.54083,-,PE 39:5,PE,23,
+8.628,776.52252,-,PE 39:6,PE,16,
+12.427,800.6189,-,PE 40:1,PE,27,
+11.403,798.60376,-,PE 40:2,PE,27,
+10.901,796.58832,-,PE 40:3,PE,2,
+9.541,792.55548,-,PE 40:5,PE,16,
+11.112,822.60345,-,PE 42:4,PE,15,
+10.413,820.58655,-,PE 42:5,PE,14,
+9.98,676.52795,+,PE O-32:0,Plasmenyl-PE,5,
+10.938,704.55945,+,PE O-34:0,Plasmenyl-PE,27,
+9.434,700.52936,-,PE O-34:1,Plasmenyl-PE,6,
+18.325,702.54364,+,PE O-34:1,Plasmenyl-PE,27,
+9.283,700.52771,+,PE O-34:2,Plasmenyl-PE,23,
+18.977,730.5752,+,PE O-36:1,Plasmenyl-PE,27,
+18.279,728.55933,+,PE O-36:2,Plasmenyl-PE,21,
+10.026,724.52643,+,PE O-36:4,Plasmenyl-PE,26,
+17.564,724.52765,+,PE O-36:4,Plasmenyl-PE,27,
+10.138,754.57538,+,PE O-38:3,Plasmenyl-PE,28,
+10.409,754.57489,+,PE O-38:3,Plasmenyl-PE,27,
+10.68,754.57495,+,PE O-38:3,Plasmenyl-PE,27,
+9.957,752.5589,+,PE O-38:4,Plasmenyl-PE,28,
+10.967,752.55829,+,PE O-38:4,Plasmenyl-PE,27,
+18.007,752.5592,+,PE O-38:4,Plasmenyl-PE,20,
+18.248,752.5592,+,PE O-38:4,Plasmenyl-PE,27,
+9.101,750.5437,+,PE O-38:5,Plasmenyl-PE,28,
+17.498,750.54333,+,PE O-38:5,Plasmenyl-PE,21,
+17.246,748.52795,+,PE O-38:6,Plasmenyl-PE,19,
+11.886,784.62225,+,PE O-40:2,Plasmenyl-PE,4,
+11.086,782.60657,+,PE O-40:3,Plasmenyl-PE,27,
+11.372,782.60663,+,PE O-40:3,Plasmenyl-PE,27,
+10.609,780.59088,+,PE O-40:4,Plasmenyl-PE,24,
+18.641,780.59137,+,PE O-40:4,Plasmenyl-PE,26,
+9.938,778.57471,+,PE O-40:5,Plasmenyl-PE,28,
+10.283,778.57483,+,PE O-40:5,Plasmenyl-PE,13,
+18.159,778.57422,+,PE O-40:5,Plasmenyl-PE,2,
+9.115,776.55902,+,PE O-40:6,Plasmenyl-PE,11,
+17.957,776.55963,+,PE O-40:6,Plasmenyl-PE,26,
+17.193,774.54376,+,PE O-40:7,Plasmenyl-PE,15,
+10.846,806.60675,+,PE O-42:5,Plasmenyl-PE,27,
+10.191,804.59009,+,PE O-42:6,Plasmenyl-PE,9,
+9.142,702.50983,-,PE-NMe 32:1,PE-NMe,27,
+10.702,732.55688,-,PE-NMe 34:0,PE-NMe,27,
+10.034,756.55621,-,PE-NMe 36:2,PE-NMe,27,
+9.379,754.54053,-,PE-NMe 36:3,PE-NMe,15,
+10.44,782.57196,-,PE-NMe 38:3,PE-NMe,27,
+10.503,810.60413,-,PE-NMe 40:3,PE-NMe,27,
+8.888,704.52417,-,PE-NMe2 15:0_16:0,PE-NMe2,27,
+7.709,662.47754,-,PE-NMe2 28:0,PE-NMe2,27,
+8.468,690.50879,-,PE-NMe2 30:0,PE-NMe2,27,
+9.977,704.52521,-,PE-NMe2 31:0,PE-NMe2,24,
+8.209,702.50952,-,PE-NMe2 31:1,PE-NMe2,13,
+9.722,716.52484,-,PE-NMe2 32:1,PE-NMe2,3,
+7.929,714.50922,-,PE-NMe2 32:2,PE-NMe2,11,
+10.477,770.57111,-,PE-NMe2 36:2,PE-NMe2,28,
+9.02,780.55688,-,PE-NMe2 37:4,PE-NMe2,27,
+7.033,691.45569,-,PG 14:0_16:1,PG,24,
+8.131,721.50232,-,PG 16:0_16:0,PG,16,
+8.16,747.51953,-,PG 16:0_18:1,PG,28,
+7.401,769.50323,-,PG 16:0_20:4,PG,8,
+7.592,769.50342,-,PG 16:0_20:4,PG,27,
+7.109,717.47205,-,PG 16:1_16:1,PG,27,
+7.376,731.48822,-,PG 16:1_17:1,PG,16,
+7.612,745.50391,-,PG 16:1_18:1,PG,27,
+7.215,743.48828,-,PG 16:1_18:2,PG,27,
+6.861,767.48767,-,PG 16:1_20:4,PG,26,
+7.861,759.52051,-,PG 17:1_18:1,PG,26,
+8.198,797.53473,-,PG 18:0_20:4,PG,27,
+8.215,773.53491,-,PG 18:1_18:1,PG,27,
+7.286,795.51953,-,PG 18:1_20:4,PG,27,
+7.391,771.51929,-,PG 18:2_18:1,PG,20,
+7.719,771.51898,-,PG 18:2_18:1,PG,27,
+6.51,815.48779,-,PG 20:5_20:4,PG,27,
+6.34,839.48895,-,PG 20:5_22:6,PG,27,
+6.965,867.51947,-,PG 22:6_22:5,PG,28,
+6.642,865.5033,-,PG 22:6_22:6,PG,28,
+6.968,893.53412,-,PG 22:6_24:6,PG,6,
+7.567,719.48798,-,PG 32:1,PG,27,
+7.851,733.50458,-,PG 33:1,PG,26,
+7.108,793.50385,-,PG 38:6,PG,27,
+7.636,823.5509,-,PG 40:5,PG,3,
+7.471,821.53503,-,PG 40:6,PG,27,
+7.168,819.51953,-,PG 40:7,PG,28,
+6.855,817.50415,-,PG 40:8,PG,27,
+6.693,841.5036,-,PG 42:10,PG,5,
+6.765,841.50366,-,PG 42:10,PG,28,
+7.251,845.53491,-,PG 42:8,PG,27,
+7.067,843.51959,-,PG 42:9,PG,30,
+7.096,869.53503,-,PG 44:10,PG,26,
+7.527,873.56671,-,PG 44:8,PG,10,
+6.886,829.48895,-,PI 14:0_20:4,PI,2,
+8.021,835.53479,-,PI 16:0_18:1,PI,25,
+7.421,857.51947,-,PI 16:0_20:4,PI,28,
+6.99,855.50391,-,PI 16:1_20:4,PI,28,
+7.708,871.53418,-,PI 17:0_20:4,PI,28,
+8.315,887.56598,-,PI 18:0_20:3,PI,4,
+8.541,887.56598,-,PI 18:0_20:3,PI,8,
+8.023,885.55127,-,PI 18:0_20:4,PI,56,
+9.073,915.59729,-,PI 18:0_22:3,PI,27,
+8.496,915.5957,+,PI 18:0_22:4,PI,45,
+8.277,911.56561,-,PI 18:0_22:5,PI,27,
+8.705,863.56573,-,PI 18:1_18:0,PI,28,
+8.066,861.5506,-,PI 18:1_18:1,PI,28,
+7.476,883.5351,-,PI 18:1_20:4,PI,28,
+7.126,881.51996,-,PI 18:2_20:4,PI,27,
+8.364,899.56586,-,PI 19:0_20:4,PI,27,
+8.72,913.58154,-,PI 20:4_20:0,PI,17,
+7.232,907.53577,-,PI 20:4_20:3,PI,3,
+6.988,905.51923,-,PI 20:4_20:4,PI,27,
+7.349,933.54718,-,PI 20:4_22:4,PI,25,
+7.859,859.53516,-,PI 36:3,PI,5,
+8.042,913.58081,+,PI 40:5,PI,51,
+7.336,907.53516,-,PI 40:7,PI,27,
+8.974,692.55951,+,Plasmanyl-PC O-16:0_14:0,Plasmanyl-PC,55,
+9.891,720.591,+,Plasmanyl-PC O-16:0_16:0,Plasmanyl-PC,55,
+9.187,718.5755,+,Plasmanyl-PC O-16:0_16:1,Plasmanyl-PC,55,
+9.02,768.59082,+,Plasmanyl-PC O-16:0_20:4,Plasmanyl-PC,56,
+8.745,792.59009,+,Plasmanyl-PC O-16:0_22:6,Plasmanyl-PC,55,
+10.863,748.6225,+,Plasmanyl-PC O-18:0_16:0,Plasmanyl-PC,53,
+10.359,856.64514,-,Plasmanyl-PC O-18:0_20:3,Plasmanyl-PC,3,
+9.908,796.6214,+,Plasmanyl-PC O-18:0_20:4,Plasmanyl-PC,56,
+10.558,824.6535,+,Plasmanyl-PC O-18:0_22:4,Plasmanyl-PC,54,
+9.975,772.62122,+,Plasmanyl-PC O-18:1_18:1,Plasmanyl-PC,55,
+9.728,794.60614,+,Plasmanyl-PC O-18:1_20:4,Plasmanyl-PC,54,
+10.38,822.63647,+,Plasmanyl-PC O-18:1_22:4,Plasmanyl-PC,51,
+10.051,878.6286,-,Plasmanyl-PC O-18:1_22:5,Plasmanyl-PC,27,
+8.777,818.6051,+,Plasmanyl-PC O-18:1_22:6,Plasmanyl-PC,55,
+9.43,818.60382,+,Plasmanyl-PC O-18:1_22:6,Plasmanyl-PC,31,
+11.855,776.65381,+,Plasmanyl-PC O-20:0_16:0,Plasmanyl-PC,53,
+11.173,884.68182,-,Plasmanyl-PC O-20:0_20:3,Plasmanyl-PC,8,
+11.334,884.68262,-,Plasmanyl-PC O-20:0_20:3,Plasmanyl-PC,26,
+10.853,824.6535,+,Plasmanyl-PC O-20:0_20:4,Plasmanyl-PC,55,
+11.525,852.68481,+,Plasmanyl-PC O-20:0_22:4,Plasmanyl-PC,54,
+10.8,850.66901,+,Plasmanyl-PC O-20:0_22:5,Plasmanyl-PC,54,
+10.504,848.65253,+,Plasmanyl-PC O-20:0_22:6,Plasmanyl-PC,54,
+7.384,636.49658,+,Plasmanyl-PC O-26:0,Plasmanyl-PC,27,
+8.132,664.52765,+,Plasmanyl-PC O-28:0,Plasmanyl-PC,28,
+7.506,662.51202,+,Plasmanyl-PC O-28:1,Plasmanyl-PC,36,
+7.251,660.4967,+,Plasmanyl-PC O-28:2,Plasmanyl-PC,27,
+7.839,676.52716,+,Plasmanyl-PC O-29:1,Plasmanyl-PC,6,
+8.204,690.54315,+,Plasmanyl-PC O-30:1,Plasmanyl-PC,27,
+8.834,690.5434,+,Plasmanyl-PC O-30:1,Plasmanyl-PC,27,
+7.927,688.52826,+,Plasmanyl-PC O-30:2,Plasmanyl-PC,10,
+9.25,706.57483,+,Plasmanyl-PC O-31:0,Plasmanyl-PC,23,
+9.434,706.57483,+,Plasmanyl-PC O-31:0,Plasmanyl-PC,26,
+11.105,706.57501,+,Plasmanyl-PC O-31:0,Plasmanyl-PC,27,
+9.051,718.5755,+,Plasmanyl-PC O-32:1,Plasmanyl-PC,15,
+9.743,718.57471,+,Plasmanyl-PC O-32:1,Plasmanyl-PC,28,
+8.777,716.55933,+,Plasmanyl-PC O-32:2,Plasmanyl-PC,28,
+8.19,714.54401,+,Plasmanyl-PC O-32:3,Plasmanyl-PC,27,
+8.624,714.54352,+,Plasmanyl-PC O-32:3,Plasmanyl-PC,16,
+10.171,734.60577,+,Plasmanyl-PC O-33:0,Plasmanyl-PC,27,
+10.377,734.60614,+,Plasmanyl-PC O-33:0,Plasmanyl-PC,27,
+12.102,734.60687,+,Plasmanyl-PC O-33:0,Plasmanyl-PC,27,
+9.483,732.59033,+,Plasmanyl-PC O-33:1,Plasmanyl-PC,15,
+11.146,732.58984,+,Plasmanyl-PC O-33:1,Plasmanyl-PC,27,
+9.912,746.60632,+,Plasmanyl-PC O-34:1,Plasmanyl-PC,55,
+10.695,746.60657,+,Plasmanyl-PC O-34:1,Plasmanyl-PC,27,
+9.212,744.59064,+,Plasmanyl-PC O-34:2,Plasmanyl-PC,55,
+9.788,744.59045,+,Plasmanyl-PC O-34:2,Plasmanyl-PC,28,
+5.539,740.55255,+,Plasmanyl-PC O-34:4,Plasmanyl-PC,27,
+8.208,740.55914,+,Plasmanyl-PC O-34:4,Plasmanyl-PC,27,
+11.144,762.63745,+,Plasmanyl-PC O-35:0,Plasmanyl-PC,27,
+13.097,762.63898,+,Plasmanyl-PC O-35:0,Plasmanyl-PC,27,
+10.417,760.6225,+,Plasmanyl-PC O-35:1,Plasmanyl-PC,9,
+12.127,760.62286,+,Plasmanyl-PC O-35:1,Plasmanyl-PC,27,
+10.907,774.63812,+,Plasmanyl-PC O-36:1,Plasmanyl-PC,55,
+10.73,772.62134,+,Plasmanyl-PC O-36:2,Plasmanyl-PC,54,
+9.81,770.60718,+,Plasmanyl-PC O-36:3,Plasmanyl-PC,21,
+8.468,766.57507,+,Plasmanyl-PC O-36:5,Plasmanyl-PC,25,
+8.858,766.57428,+,Plasmanyl-PC O-36:5,Plasmanyl-PC,28,
+13.47,766.58386,+,Plasmanyl-PC O-36:5,Plasmanyl-PC,8,
+7.988,764.55627,+,Plasmanyl-PC O-36:6,Plasmanyl-PC,27,
+8.307,764.55688,+,Plasmanyl-PC O-36:6,Plasmanyl-PC,14,
+12.363,790.66852,+,Plasmanyl-PC O-37:0,Plasmanyl-PC,27,
+12.997,788.65387,+,Plasmanyl-PC O-37:1,Plasmanyl-PC,4,
+13.114,788.65521,+,Plasmanyl-PC O-37:1,Plasmanyl-PC,17,
+12.924,786.63922,+,Plasmanyl-PC O-37:2,Plasmanyl-PC,27,
+12.854,804.68549,+,Plasmanyl-PC O-38:0,Plasmanyl-PC,27,
+11.89,802.66931,+,Plasmanyl-PC O-38:1,Plasmanyl-PC,54,
+10.892,800.65424,+,Plasmanyl-PC O-38:2,Plasmanyl-PC,16,
+11.049,800.65466,+,Plasmanyl-PC O-38:2,Plasmanyl-PC,4,
+11.258,800.65417,+,Plasmanyl-PC O-38:2,Plasmanyl-PC,30,
+9.65,796.62152,+,Plasmanyl-PC O-38:4,Plasmanyl-PC,45,
+10.448,796.6214,+,Plasmanyl-PC O-38:4,Plasmanyl-PC,26,
+9.043,794.60596,+,Plasmanyl-PC O-38:5,Plasmanyl-PC,56,
+9.477,794.60577,+,Plasmanyl-PC O-38:5,Plasmanyl-PC,16,
+8.487,792.59003,+,Plasmanyl-PC O-38:6,Plasmanyl-PC,7,
+8.885,792.58966,+,Plasmanyl-PC O-38:6,Plasmanyl-PC,55,
+8.597,790.57355,+,Plasmanyl-PC O-38:7,Plasmanyl-PC,28,
+13.369,818.70117,+,Plasmanyl-PC O-39:0,Plasmanyl-PC,27,
+11.538,816.70355,+,Plasmanyl-PC O-39:1,Plasmanyl-PC,23,
+13.85,832.71698,+,Plasmanyl-PC O-40:0,Plasmanyl-PC,27,
+12.755,830.70074,+,Plasmanyl-PC O-40:1,Plasmanyl-PC,18,
+12.88,830.70032,+,Plasmanyl-PC O-40:1,Plasmanyl-PC,29,
+11.825,828.68457,+,Plasmanyl-PC O-40:2,Plasmanyl-PC,27,
+12.252,828.68481,+,Plasmanyl-PC O-40:2,Plasmanyl-PC,7,
+11.882,824.64789,+,Plasmanyl-PC O-40:4,Plasmanyl-PC,6,
+9.658,822.63672,+,Plasmanyl-PC O-40:5,Plasmanyl-PC,24,
+9.888,822.63702,+,Plasmanyl-PC O-40:5,Plasmanyl-PC,28,
+10.651,822.63647,+,Plasmanyl-PC O-40:5,Plasmanyl-PC,26,
+11.265,822.63684,+,Plasmanyl-PC O-40:5,Plasmanyl-PC,25,
+9.046,820.62115,+,Plasmanyl-PC O-40:6,Plasmanyl-PC,7,
+9.595,820.62091,+,Plasmanyl-PC O-40:6,Plasmanyl-PC,55,
+8.628,816.58807,+,Plasmanyl-PC O-40:8,Plasmanyl-PC,26,
+13.882,858.73169,+,Plasmanyl-PC O-42:1,Plasmanyl-PC,27,
+12.782,856.71631,+,Plasmanyl-PC O-42:2,Plasmanyl-PC,27,
+11.83,852.68457,+,Plasmanyl-PC O-42:4,Plasmanyl-PC,27,
+12.745,852.68134,+,Plasmanyl-PC O-42:4,Plasmanyl-PC,5,
+12.88,852.68201,+,Plasmanyl-PC O-42:4,Plasmanyl-PC,20,
+11.16,908.67688,-,Plasmanyl-PC O-42:5,Plasmanyl-PC,9,
+12.25,850.66901,+,Plasmanyl-PC O-42:5,Plasmanyl-PC,27,
+10.138,848.65131,+,Plasmanyl-PC O-42:6,Plasmanyl-PC,21,
+13.746,884.74756,+,Plasmanyl-PC O-44:2,Plasmanyl-PC,20,
+12.501,880.71613,+,Plasmanyl-PC O-44:4,Plasmanyl-PC,27,
+12.818,880.71613,+,Plasmanyl-PC O-44:4,Plasmanyl-PC,27,
+10.84,876.68445,+,Plasmanyl-PC O-44:6,Plasmanyl-PC,27,
+11.467,876.68469,+,Plasmanyl-PC O-44:6,Plasmanyl-PC,26,
+11.703,904.71533,+,Plasmanyl-PC O-46:6,Plasmanyl-PC,27,
+12.075,904.71698,+,Plasmanyl-PC O-46:6,Plasmanyl-PC,27,
+12.447,904.71588,+,Plasmanyl-PC O-46:6,Plasmanyl-PC,27,
+9.23,724.53015,-,Plasmanyl-PE O-16:0_20:4,Plasmanyl-PE,2,
+10.596,754.57745,-,Plasmanyl-PE O-16:0_22:3,Plasmanyl-PE,22,
+9.879,752.56146,-,Plasmanyl-PE O-16:0_22:4,Plasmanyl-PE,27,
+10.138,752.56128,-,Plasmanyl-PE O-18:0_20:4,Plasmanyl-PE,27,
+10.793,780.5932,-,Plasmanyl-PE O-18:0_22:4,Plasmanyl-PE,27,
+10.409,752.56128,-,Plasmanyl-PE O-18:1_20:3,Plasmanyl-PE,27,
+10.68,752.56128,-,Plasmanyl-PE O-18:1_20:3,Plasmanyl-PE,27,
+9.957,750.54584,-,Plasmanyl-PE O-18:1_20:4,Plasmanyl-PE,28,
+11.372,780.59332,-,Plasmanyl-PE O-18:1_22:3,Plasmanyl-PE,27,
+10.609,778.57837,-,Plasmanyl-PE O-18:1_22:4,Plasmanyl-PE,28,
+11.767,808.62469,-,Plasmanyl-PE O-20:0_22:4,Plasmanyl-PE,25,
+10.147,702.54462,-,Plasmanyl-PE O-34:1,Plasmanyl-PE,27,
+11.146,730.57666,-,Plasmanyl-PE O-36:1,Plasmanyl-PE,27,
+8.628,722.51398,-,Plasmanyl-PE O-36:5,Plasmanyl-PE,26,
+9.24,750.54553,-,Plasmanyl-PE O-38:5,Plasmanyl-PE,22,
+9.101,748.52997,-,Plasmanyl-PE O-38:6,Plasmanyl-PE,28,
+11.566,782.60889,-,Plasmanyl-PE O-40:3,Plasmanyl-PE,14,
+11.086,780.59344,-,Plasmanyl-PE O-40:4,Plasmanyl-PE,27,
+10.118,778.57727,-,Plasmanyl-PE O-40:5,Plasmanyl-PE,27,
+9.735,776.56122,-,Plasmanyl-PE O-40:6,Plasmanyl-PE,26,
+9.938,776.56146,-,Plasmanyl-PE O-40:6,Plasmanyl-PE,10,
+10.283,776.56122,-,Plasmanyl-PE O-40:6,Plasmanyl-PE,27,
+9.354,800.56171,-,Plasmanyl-PE O-42:8,Plasmanyl-PE,24,
+8.86,824.58264,-,Plasmenyl-PC P-16:0_20:4,Plasmenyl-PC,28,
+9.474,852.61371,-,Plasmenyl-PC P-16:0_22:4,Plasmenyl-PC,12,
+10.657,880.64441,-,Plasmenyl-PC P-20:0_20:4,Plasmenyl-PC,26,
+9.788,802.59894,-,Plasmenyl-PC P-34:1,Plasmenyl-PC,27,
+8.243,696.49646,+,Plasmenyl-PE P-14:0_20:4,Plasmenyl-PE,51,
+9.752,726.54346,+,Plasmenyl-PE P-16:0_20:3,Plasmenyl-PE,30,
+9.067,724.52814,+,Plasmenyl-PE P-16:0_20:4,Plasmenyl-PE,56,
+8.485,722.51215,+,Plasmenyl-PE P-16:0_20:5,Plasmenyl-PE,55,
+9.698,752.55945,+,Plasmenyl-PE P-16:0_22:4,Plasmenyl-PE,56,
+8.784,748.52832,+,Plasmenyl-PE P-16:0_22:6,Plasmenyl-PE,56,
+12.924,784.62408,-,Plasmenyl-PE P-18:0_22:1,Plasmenyl-PE,27,
+9.647,776.5592,+,Plasmenyl-PE P-18:0_22:6,Plasmenyl-PE,49,
+10.055,728.55975,+,Plasmenyl-PE P-18:1_18:1,Plasmenyl-PE,54,
+9.407,774.54504,-,Plasmenyl-PE P-18:1_22:5,Plasmenyl-PE,5,
+8.823,774.54346,+,Plasmenyl-PE P-18:1_22:6,Plasmenyl-PE,56,
+10.894,780.59094,+,Plasmenyl-PE P-20:0_20:4,Plasmenyl-PE,54,
+11.571,808.62219,+,Plasmenyl-PE P-20:0_22:4,Plasmenyl-PE,47,
+10.553,802.57684,-,Plasmenyl-PE P-20:0_22:6,Plasmenyl-PE,14,
+9.128,674.51239,+,Plasmenyl-PE P-32:1,Plasmenyl-PE,51,
+10.023,702.54395,+,Plasmenyl-PE P-34:1,Plasmenyl-PE,56,
+8.885,696.49847,-,Plasmenyl-PE P-34:3,Plasmenyl-PE,3,
+10.973,730.57611,+,Plasmenyl-PE P-36:1,Plasmenyl-PE,54,
+9.473,726.54346,+,Plasmenyl-PE P-36:3,Plasmenyl-PE,26,
+11.935,758.60669,+,Plasmenyl-PE P-38:1,Plasmenyl-PE,54,
+9.383,748.52997,-,Plasmenyl-PE P-38:5,Plasmenyl-PE,28,
+8.692,812.54559,-,PS 18:0_20:3,PS,9,
+8.693,810.5304,-,PS 18:0_20:4,PS,4,
+8.831,838.56134,-,PS 18:0_22:4,PS,26,
+9.005,838.56134,-,PS 18:0_22:4,PS,6,
+9.069,788.5462,-,PS 18:1_18:0,PS,21,
+9.27,788.54608,-,PS 18:1_18:0,PS,2,
+9.567,788.5459,-,PS 18:1_18:0,PS,11,
+8.292,786.53046,-,PS 18:1_18:1,PS,3,
+10.042,842.59241,-,PS 18:1_22:1,PS,19,
+10.462,842.59338,-,PS 18:1_22:1,PS,4,
+10.048,816.57733,-,PS 38:1,PS,7,
+9.55,814.56122,-,PS 38:2,PS,3,
+8.265,810.53003,-,PS 38:4,PS,26,
+7.336,649.51984,+,SM d30:0,SM,27,
+6.601,647.51239,+,SM d30:1,SM,26,
+7.092,661.52838,+,SM d31:1,SM,27,
+7.489,675.54376,+,SM d32:1,SM,28,
+6.813,673.52875,+,SM d32:2,SM,27,
+7.909,689.55939,+,SM d33:1,SM,53,
+7.234,687.54413,+,SM d33:2,SM,27,
+8.658,705.59125,+,SM d34:0,SM,17,
+8.348,703.57489,+,SM d34:1,SM,56,
+7.619,701.55957,+,SM d34:2,SM,56,
+8.806,717.59125,+,SM d35:1,SM,26,
+8.031,715.57513,+,SM d35:2,SM,26,
+9.621,733.62256,+,SM d36:0,SM,26,
+12.783,733.61407,+,SM d36:0,SM,27,
+9.26,731.60669,+,SM d36:1,SM,28,
+8.457,729.59021,+,SM d36:2,SM,28,
+15.808,735.54797,+,SM d37:6,SM,28,
+10.253,759.63879,+,SM d38:1,SM,50,
+11.262,771.63885,+,SM d39:2,SM,27,
+11.626,789.68591,+,SM d40:0,SM,26,
+11.255,787.66949,+,SM d40:1,SM,56,
+10.195,785.65442,+,SM d40:2,SM,54,
+10.361,785.6543,+,SM d40:2,SM,55,
+10.678,799.67084,+,SM d41:2,SM,54,
+9.808,797.65717,+,SM d41:3,SM,22,
+12.629,875.72473,-,SM d42:0,SM,8,
+11.54,815.70093,+,SM d42:1,SM,3,
+12.271,815.70074,+,SM d42:1,SM,55,
+13.201,815.70074,+,SM d42:1,SM,2,
+11.165,813.68481,+,SM d42:2,SM,56,
+11.349,871.69287,-,SM d42:2,SM,10,
+16.341,813.69543,+,SM d42:2,SM,27,
+10.278,811.66821,+,SM d42:3,SM,56,
+9.548,809.65186,+,SM d42:4,SM,18,
+10.374,807.6355,+,SM d42:5,SM,26,
+11.658,827.70349,+,SM d43:2,SM,49,
+10.745,825.69269,+,SM d43:3,SM,27,
+11.775,823.66858,+,SM d43:4,SM,13,
+13.279,843.73242,+,SM d44:1,SM,6,
+12.145,841.71722,+,SM d44:2,SM,54,
+11.236,839.70111,+,SM d44:3,SM,27,
+12.27,837.68207,+,SM d44:4,SM,27,
+2.169,282.27927,+,SP d18:1,SP,27,
+14.209,738.66241,+,TG 12:0_12:0_18:1,TG,24,
+14.409,764.67706,+,TG 12:0_16:1_16:1,TG,27,
+15.502,754.69244,+,TG 14:0_14:0_15:0,TG,26,
+15.714,849.69458,+,TG 14:0_16:0_20:4,TG,27,
+15.615,806.72375,+,TG 15:0_16:1_16:1,TG,13,
+16.537,877.72632,+,TG 16:0_16:0_20:4,TG,26,
+16.168,901.72516,+,TG 16:0_16:0_22:6,TG,17,
+17.308,905.75702,+,TG 16:0_18:0_20:4,TG,5,
+15.12,949.72632,+,TG 16:0_20:4_22:6,TG,27,
+14.632,892.73938,+,TG 16:1_16:1_22:6,TG,27,
+15.964,977.75751,+,TG 18:0_20:4_22:6,TG,27,
+16.46,950.81702,+,TG 18:1_18:1_22:5,TG,2,
+18.458,982.88031,+,TG 18:1_20:0_22:4,TG,2,
+15.11,975.74097,+,TG 18:1_20:4_22:6,TG,27,
+19.538,1064.95789,+,TG 18:1_22:4_26:1,TG,2,
+14.73,999.74182,+,TG 18:1_22:6_22:6,TG,27,
+14.637,1046.81836,+,TG 22:5_22:5_22:5,TG,25,
+15.934,768.70825,+,TG 44:0,TG,28,
+15.086,766.6922,+,TG 44:1,TG,28,
+16.347,782.724,+,TG 45:0,TG,28,
+16.756,796.73907,+,TG 46:0,TG,28,
+15.927,794.72375,+,TG 46:1,TG,55,
+16.055,794.72321,+,TG 46:1,TG,5,
+15.271,792.70831,+,TG 46:2,TG,28,
+16.983,810.75464,+,TG 47:0,TG,5,
+17.134,810.75531,+,TG 47:0,TG,28,
+16.34,808.7395,+,TG 47:1,TG,29,
+17.522,824.77094,+,TG 48:0,TG,56,
+16.742,822.755,+,TG 48:1,TG,56,
+16.864,822.75507,+,TG 48:1,TG,7,
+16.01,820.7392,+,TG 48:2,TG,54,
+16.428,820.73938,+,TG 48:2,TG,5,
+15.54,818.72351,+,TG 48:3,TG,23,
+17.869,838.78705,+,TG 49:0,TG,28,
+17.118,836.77106,+,TG 49:1,TG,28,
+16.374,834.75507,+,TG 49:2,TG,26,
+18.235,852.80231,+,TG 50:0,TG,45,
+17.497,850.78644,+,TG 50:1,TG,56,
+16.767,848.77051,+,TG 50:2,TG,55,
+16.072,846.75476,+,TG 50:3,TG,50,
+16.398,846.75507,+,TG 50:3,TG,20,
+15.528,844.73932,+,TG 50:4,TG,8,
+18.555,866.81757,+,TG 51:0,TG,25,
+17.713,864.80225,+,TG 51:1,TG,2,
+17.847,864.80182,+,TG 51:1,TG,55,
+17.104,862.78607,+,TG 51:2,TG,55,
+16.417,860.77045,+,TG 51:3,TG,27,
+18.897,880.83368,+,TG 52:0,TG,39,
+18.206,878.81775,+,TG 52:1,TG,55,
+17.475,876.80194,+,TG 52:2,TG,56,
+16.788,874.78558,+,TG 52:3,TG,56,
+16.322,872.77063,+,TG 52:4,TG,51,
+15.739,870.75458,+,TG 52:5,TG,54,
+19.22,894.84851,+,TG 53:0,TG,7,
+18.53,892.83344,+,TG 53:1,TG,54,
+17.823,890.81805,+,TG 53:2,TG,55,
+17.103,888.80139,+,TG 53:3,TG,54,
+16.747,886.78552,+,TG 53:4,TG,15,
+16.117,884.77032,+,TG 53:5,TG,27,
+19.54,908.86499,+,TG 54:0,TG,30,
+18.865,906.84918,+,TG 54:1,TG,54,
+18.178,904.83295,+,TG 54:2,TG,56,
+17.457,902.81659,+,TG 54:3,TG,56,
+17.597,907.77191,+,TG 54:3,TG,12,
+16.899,900.80164,+,TG 54:4,TG,49,
+17.147,900.80182,+,TG 54:4,TG,50,
+16.312,898.78644,+,TG 54:5,TG,2,
+16.519,898.78656,+,TG 54:5,TG,56,
+15.781,901.72528,+,TG 54:6,TG,27,
+15.337,899.71021,+,TG 54:7,TG,27,
+19.166,920.8642,+,TG 55:1,TG,6,
+18.489,918.84821,+,TG 55:2,TG,17,
+20.096,936.89709,+,TG 56:0,TG,8,
+19.486,934.88043,+,TG 56:1,TG,55,
+18.82,932.86456,+,TG 56:2,TG,55,
+17.474,930.84784,+,TG 56:3,TG,2,
+18.141,930.84784,+,TG 56:3,TG,54,
+18.264,935.80438,+,TG 56:3,TG,4,
+17.649,928.83337,+,TG 56:4,TG,45,
+17.07,926.81781,+,TG 56:5,TG,54,
+17.278,931.77301,+,TG 56:5,TG,27,
+16.495,924.80182,+,TG 56:6,TG,56,
+16.149,927.74176,+,TG 56:7,TG,27,
+15.324,925.72583,+,TG 56:8,TG,9,
+15.481,925.72577,+,TG 56:8,TG,27,
+19.78,948.8963,+,TG 57:1,TG,10,
+19.111,946.88019,+,TG 57:2,TG,8,
+16.842,938.81659,+,TG 57:6,TG,4,
+20.628,964.92859,+,TG 58:0,TG,5,
+20.063,962.91248,+,TG 58:1,TG,55,
+19.414,960.89636,+,TG 58:2,TG,53,
+18.782,958.88019,+,TG 58:3,TG,41,
+18.219,956.86353,+,TG 58:4,TG,35,
+17.778,954.84875,+,TG 58:5,TG,54,
+17.047,952.83282,+,TG 58:6,TG,52,
+17.214,952.83258,+,TG 58:6,TG,49,
+16.643,950.81689,+,TG 58:7,TG,52,
+16.935,955.77277,+,TG 58:7,TG,27,
+16.131,948.80133,+,TG 58:8,TG,55,
+15.479,951.74109,+,TG 58:9,TG,27,
+20.335,976.92798,+,TG 59:1,TG,2,
+19.072,972.89557,+,TG 59:3,TG,4,
+20.597,990.94452,+,TG 60:1,TG,53,
+15.461,977.75702,+,TG 60:10,TG,11,
+15.703,977.75732,+,TG 60:10,TG,25,
+19.995,988.92761,+,TG 60:2,TG,54,
+19.375,986.91144,+,TG 60:3,TG,46,
+18.803,984.8949,+,TG 60:4,TG,25,
+18.289,982.87976,+,TG 60:5,TG,7,
+17.76,980.86407,+,TG 60:6,TG,21,
+17.906,980.86432,+,TG 60:6,TG,38,
+17.197,978.84808,+,TG 60:7,TG,48,
+16.63,976.8324,+,TG 60:8,TG,33,
+16.884,981.78802,+,TG 60:8,TG,20,
+16.081,974.81683,+,TG 60:9,TG,50,
+16.289,979.77228,+,TG 60:9,TG,27,
+20.265,1002.94299,+,TG 61:2,TG,4,
+15.686,1003.77289,+,TG 62:11,TG,27,
+20.542,1016.95972,+,TG 62:2,TG,54,
+19.931,1014.94287,+,TG 62:3,TG,50,
+19.384,1012.92621,+,TG 62:4,TG,53,
+18.535,1008.89624,+,TG 62:6,TG,44,
+17.303,1004.86432,+,TG 62:8,TG,25,
+16.672,1002.84802,+,TG 62:9,TG,14,
+20.972,1044.99133,+,TG 64:2,TG,22,
+20.437,1042.97583,+,TG 64:3,TG,27,
+19.928,1040.95789,+,TG 64:4,TG,10,
+20.919,1071.00659,+,TG 66:3,TG,27,

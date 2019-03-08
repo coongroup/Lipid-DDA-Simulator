@@ -1,0 +1,13 @@
+Scan Overhead (ms),6
+C Trap Clear Time (ms),23
+Polarity Switching Time (ms),233
+Resolution Settings,15000,30000,60000,120000,240000
+Transient Time (ms),32,64,128,256,512
+AGC Target Options,20000,50000,100000,200000,500000,1000000,3000000,5000000
+Negative Noise Intensity,5000.0
+Positive Noise Intensity,5000.0
+Minimum MS2 SN,3.0
+Minimum PIF,0.5
+Only Sample Lipids,false
+Mass Tolerance (ppm),15.0
+Precursor mz Lipid ID,false

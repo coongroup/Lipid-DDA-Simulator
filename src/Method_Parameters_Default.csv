@@ -1,0 +1,2 @@
+polaritySwitching,polarity,ms1Resolution,ms2Resolution,ms1InjectionTime,ms2InjectionTime,ms2AGCTarget,posTopN,negTopN,isolationWidth,dynamicExclusion,minAGCTarget,gradientLength,excludeIsotopes,steppedCE
+true,-,60000,15000,20,35,20000,3,3,1.4,10.0,100,30.0,true,true,
