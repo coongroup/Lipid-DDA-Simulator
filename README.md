@@ -2,7 +2,7 @@
 
 The Lipid DDA Simulator is a proof-of-concept computational tool for in-silico simulation of lipidomics data-dependent acquisition on the Q-Exactive HF.  The simulation descriptively models ion flux, ion transmission, quadrupole isolation, fragmentation efficiency, and spectral noise under various method parameter combinations and predicts the likely number of lipid identifications for a given experiment.  The software couples the in-silico model to a modified genetic algorithm to efficiently explore the method parameter space for new sample types and return near-optimal method parameter sets.
 
-[Download](https://github.com/coongroup/LipiDex/releases/latest)
+[Download](https://github.com/coongroup/Lipid-DDA-Simulator/releases/latest)
 <br><br>
 
 ## Key Features
@@ -22,4 +22,4 @@ Compound Discoverer: https://www.thermofisher.com/order/catalog/product/OPTON-30
 
 ### Installing
 
-To install this program, ensure you have installed the most recent version of 64-bit Java and then download [here](https://github.com/phutch89/Lipid-DD-Simulator/releases/latest)
+To install this program, ensure you have installed the most recent version of 64-bit Java and then download [here](https://github.com/coongroup/Lipid-DDA-Simulator/releases/latest)
