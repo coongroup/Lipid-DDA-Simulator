@@ -15,7 +15,7 @@ The Lipid DDA Simulator is a proof-of-concept computational tool for in-silico s
 
 ### Prerequisites
 
-Written in Java, the Lipid DDA Simulator accepts .mzXML MS/MS files and chromatographic peak tables from Compound Discoverer.<br><br>
+Written in Java, the Lipid DDA Simulator accepts .mzXML files and chromatographic peak tables from Compound Discoverer.<br><br>
 Java: https://java.com/en/download/<br>
 Proteowizard MS/MS file converter: http://proteowizard.sourceforge.net/ <br>
 Compound Discoverer: https://www.thermofisher.com/order/catalog/product/OPTON-30783<br>
