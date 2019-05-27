@@ -23,3 +23,11 @@ Compound Discoverer: https://www.thermofisher.com/order/catalog/product/OPTON-30
 ### Installing
 
 To install this program, ensure you have installed the most recent version of 64-bit Java and then download [here](https://github.com/coongroup/Lipid-DDA-Simulator/releases/latest)
+
+Note: If the text in the program window appears too large on a Windows 10 OS, perform the following steps:
+
+* Find installed java.exe.
+* Right click and select "Properties"
+* Navigate to the "Compatibility" tab
+* Select "Override high DPI scaling behavior"
+* Choose Scaling performed by System.
